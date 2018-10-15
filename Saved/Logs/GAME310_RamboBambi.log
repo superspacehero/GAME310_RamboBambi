@@ -1,0 +1,1192 @@
+﻿Log file open, 10/15/18 14:56:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GAME310_RamboBambi
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.674495
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.311s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E3-1245 v6 @ 3.70GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.15-18.56.57:248][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.15-18.56.57:248][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.15-18.56.57:278][  0]LogHAL: Display: Platform has ~ 16 GB [17066348544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.15-18.56.57:278][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.15-18.56.57:278][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.15-18.56.57:280][  0]LogInit: Computer: D-8HC2JH2-ART
+[2018.10.15-18.56.57:280][  0]LogInit: User: student
+[2018.10.15-18.56.57:280][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.15-18.56.57:280][  0]LogInit: High frequency timer resolution =3.609377 MHz
+[2018.10.15-18.56.57:280][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.15-18.56.57:280][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.15-18.56.57:280][  0]LogMemory: Process Physical Memory: 100.84 MB used, 100.84 MB peak
+[2018.10.15-18.56.57:280][  0]LogMemory: Process Virtual Memory: 91.38 MB used, 91.38 MB peak
+[2018.10.15-18.56.57:280][  0]LogMemory: Physical Memory: 3999.27 MB used,  12276.47 MB free, 16275.74 MB total
+[2018.10.15-18.56.57:280][  0]LogMemory: Virtual Memory: 4639.52 MB used,  12276.47 MB free, 134217728.00 MB total
+[2018.10.15-18.56.58:455][  0]LogInit: Using OS detected language (en-US).
+[2018.10.15-18.56.58:455][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.15-18.56.58:467][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.15-18.56.58:846][  0]LogStreaming: Display: Took  0.399s to InitEngineTextLocalization.
+[2018.10.15-18.56.58:847][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.15-18.56.58:944][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.15-18.56.58:944][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.15-18.56.59:623][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.15-18.56.59:623][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.15-18.56.59:675][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.10.15-18.56.59:675][  0]LogD3D11RHI:       6061/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.15-18.56.59:702][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics P630' (Feature Level 11_0)
+[2018.10.15-18.56.59:702][  0]LogD3D11RHI:       128/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.15-18.56.59:704][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.15-18.56.59:704][  0]LogD3D11RHI:       0/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.15-18.56.59:704][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.15-18.56.59:710][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.15-18.56.59:710][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.15-18.56.59:711][  0]LogWindows: EnumDisplayDevices:
+[2018.10.15-18.56.59:711][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.10.15-18.56.59:711][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.10.15-18.56.59:711][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.10.15-18.56.59:711][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.10.15-18.56.59:711][  0]LogWindows:    4. 'Intel(R) HD Graphics P630' (P:0 D:0)
+[2018.10.15-18.56.59:711][  0]LogWindows:    5. 'Intel(R) HD Graphics P630' (P:0 D:0)
+[2018.10.15-18.56.59:712][  0]LogWindows:    6. 'Intel(R) HD Graphics P630' (P:0 D:0)
+[2018.10.15-18.56.59:712][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.10.15-18.56.59:712][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.10.15-18.56.59:712][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.10.15-18.56.59:712][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.10.15-18.56.59:712][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.10.15-18.56.59:743][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.15-18.56.59:762][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.15-18.56.59:768][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Intermediate/Shaders/WorkingDirectory/9776/).
+[2018.10.15-18.56.59:769][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/student/AppData/Local/Temp/UnrealShaderWorkingDir/164A9B6F449C4A410A5683B886809994/'.
+[2018.10.15-18.57.00:212][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.15-18.57.00:227][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.15-18.57.00:240][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.15-18.57.00:264][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.15-18.57.00:289][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.15-18.57.00:312][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.15-18.57.00:329][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.15-18.57.00:349][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.15-18.57.00:362][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.15-18.57.00:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:450][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.57.00:458][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.15-18.57.00:549][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.15-18.57.00:549][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.15-18.57.00:572][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.15-18.57.00:572][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.15-18.57.00:589][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.15-18.57.00:603][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.15-18.57.00:619][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.15-18.57.00:648][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.15-18.57.00:662][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.15-18.57.00:662][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.15-18.57.00:955][  0]LogXGEController: Cleaning working directory: C:/Users/student/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.15-18.57.00:956][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.15-18.57.00:956][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.15-18.57.00:956][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.15-18.57.01:794][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.15-18.57.02:128][  0]LogDerivedDataCache: Loaded boot cache 0.34s 87MB C:/Users/student/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.15-18.57.02:129][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/student/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.15-18.57.02:129][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.15-18.57.02:129][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.15-18.57.02:129][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.15-18.57.02:129][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.15-18.57.02:149][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.15-18.57.02:166][  0]LogDerivedDataCache: Using Local data cache path C:/Users/student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.15-18.57.02:166][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.15-18.57.02:166][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.15-18.57.02:187][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.15-18.57.02:192][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.15-18.57.02:203][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.15-18.57.02:379][  0]LogAssetRegistry: FAssetRegistry took 0.0287 seconds to start up
+[2018.10.15-18.57.02:776][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.15-18.57.03:078][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.15-18.57.03:125][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.15-18.57.03:126][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.15-18.57.03:126][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.15-18.57.03:126][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.15-18.57.03:158][  0]LogNetVersion: GAME310_RamboBambi 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 251346224)
+[2018.10.15-18.57.03:901][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.162349 seconds
+[2018.10.15-18.57.03:908][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.15-18.57.03:908][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.15-18.57.03:908][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.15-18.57.06:397][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.15-18.57.06:423][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.15-18.57.06:832][  0]SourceControl: Source control is disabled
+[2018.10.15-18.57.06:833][  0]SourceControl: Source control is disabled
+[2018.10.15-18.57.06:852][  0]SourceControl: Source control is disabled
+[2018.10.15-18.57.06:879][  0]SourceControl: Source control is disabled
+[2018.10.15-18.57.07:505][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.15-18.57.07:631][  0]LogOcInput: OculusInput pre-init called
+[2018.10.15-18.57.07:779][  0]LogEngine: Initializing Engine...
+[2018.10.15-18.57.07:782][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.15-18.57.07:785][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.15-18.57.07:785][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.15-18.57.07:786][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.15-18.57.07:786][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.15-18.57.07:977][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.15-18.57.08:017][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.15-18.57.08:037][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.15-18.57.08:198][  0]LogInit: FAudioDevice initialized.
+[2018.10.15-18.57.08:198][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.15-18.57.08:267][  0]LogDerivedDataCache: Saved boot cache 0.07s 87MB C:/Users/student/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.15-18.57.08:268][  0]LogInit: Texture streaming: Enabled
+[2018.10.15-18.57.08:308][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.15-18.57.08:332][  0]LogInit: Transaction tracking system initialized
+[2018.10.15-18.57.08:424][  0]BlueprintLog: New page: Editor Load
+[2018.10.15-18.57.08:705][  0]LocalizationService: Localization service is disabled
+[2018.10.15-18.57.09:274][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.15-18.57.09:275][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.15-18.57.09:275][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.15-18.57.09:275][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.15-18.57.09:275][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.15-18.57.09:276][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.15-18.57.09:276][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.15-18.57.09:797][  0]LogFileCache: Scanning file cache for directory 'C:/Users/student/Documents/GitHub/GAME310_RamboBambi/Content/' took 0.03s
+[2018.10.15-18.57.09:797][  0]SourceControl: Source control is disabled
+[2018.10.15-18.57.09:798][  0]Cmd: MAP LOAD FILE="../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Levels/Level1/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.15-18.57.09:800][  0]LightingResults: New page: Lighting Build
+[2018.10.15-18.57.09:807][  0]MapCheck: New page: Map Check
+[2018.10.15-18.57.09:807][  0]LightingResults: New page: Lighting Build
+[2018.10.15-18.57.10:385][  0]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2018.10.15-18.57.10:385][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.10.15-18.57.10:385][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2018.10.15-18.57.10:385][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2018.10.15-18.57.10:385][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.10.15-18.57.10:385][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.10.15-18.57.10:385][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.10.15-18.57.10:385][  0]LogMaterial: Display: Missing cached shader map for material M_GrapplePoint, compiling. 
+[2018.10.15-18.57.10:542][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.15-18.57.10:542][  0]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.15-18.57.10:542][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.15-18.57.10:542][  0]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.15-18.57.10:542][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.10.15-18.57.10:542][  0]LogStaticMesh: Building static mesh ConeOfSight...
+[2018.10.15-18.57.10:691][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.10.15-18.57.10:691][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2018.10.15-18.57.10:692][  0]LogStaticMesh: Built static mesh [0.15s] /Game/Models/ConeOfSight.ConeOfSight
+[2018.10.15-18.57.10:739][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2018.10.15-18.57.10:739][  0]LogStaticMesh: Building static mesh Building...
+[2018.10.15-18.57.10:767][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X1024)
+[2018.10.15-18.57.10:767][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.10.15-18.57.10:767][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Levels/Level1/Building.Building
+[2018.10.15-18.57.10:805][  0]LogStaticMesh: Building static mesh Exterior...
+[2018.10.15-18.57.10:808][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/Level1/Exterior.Exterior
+[2018.10.15-18.57.10:816][  0]LogStaticMesh: Building static mesh Rails...
+[2018.10.15-18.57.10:846][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Levels/Level1/Rails.Rails
+[2018.10.15-18.57.10:882][  0]LogStaticMesh: Building static mesh SecondFloor...
+[2018.10.15-18.57.10:894][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/Level1/SecondFloor.SecondFloor
+[2018.10.15-18.57.10:946][  0]LogStaticMesh: Building static mesh SecondFloor-Boundary...
+[2018.10.15-18.57.10:951][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Levels/Level1/SecondFloor-Boundary.SecondFloor-Boundary
+[2018.10.15-18.57.10:987][  0]LogStaticMesh: Building static mesh Stairs...
+[2018.10.15-18.57.10:996][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/Level1/Stairs.Stairs
+[2018.10.15-18.57.10:999][  0]LogMaterial: Display: Missing cached shader map for material ConeOfSight, compiling. 
+[2018.10.15-18.57.11:144][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.15-18.57.11:388][  0]LogMaterial: Display: Missing cached shader map for material ChainLink, compiling. 
+[2018.10.15-18.57.11:480][  0]LogAIModule: Creating AISystem for world Level1
+[2018.10.15-18.57.11:512][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.15-18.57.11:540][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.15-18.57.11:747][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 211.019ms to complete.
+[2018.10.15-18.57.11:747][  0]LogFileHelpers: Loading map 'Level1' took 1.990
+[2018.10.15-18.57.11:890][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-18.57.11:896][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-18.57.11:903][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-18.57.11:910][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-18.57.11:933][  0]LogCollectionManager: Loaded 0 collections in 0.003825 seconds
+[2018.10.15-18.57.11:994][  0]LogFileCache: Scanning file cache for directory 'C:/Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/Collections/' took 0.01s
+[2018.10.15-18.57.11:994][  0]LogFileCache: Scanning file cache for directory 'C:/Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Developers/student/Collections/' took 0.01s
+[2018.10.15-18.57.11:994][  0]LogFileCache: Scanning file cache for directory 'C:/Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Collections/' took 0.01s
+[2018.10.15-18.57.11:994][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.15-18.57.12:005][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2572 classes and 603 folders.
+[2018.10.15-18.57.12:020][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.15-18.57.12:486][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.10.15-18.57.12:521][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.10.15-18.57.12:575][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.15-18.57.12:604][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.10.15-18.57.12:640][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.15-18.57.12:641][  0]LogLoad: (Engine Initialization) Total time: 30.25 seconds
+[2018.10.15-18.57.12:641][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.15-18.57.12:650][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.15-18.57.12:684][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.15-18.57.12:690][  0]LogSlate: Took 0.002604 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.15-18.57.12:693][  0]LogSlate: Took 0.001825 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.15-18.57.12:700][  0]LogSlate: Took 0.002989 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.15-18.57.12:815][  0]LogSlate: Took 0.001717 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.15-18.57.12:833][  1]LogRenderer: Reallocating scene render targets to support 528x360 Format 10 NumSamples 1 (Frame:1).
+[2018.10.15-18.57.12:836][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/student/Documents/GitHub/GAME310_RamboBambi/Content/' took 0.18s
+[2018.10.15-18.57.12:848][  1]LogAssetRegistry: Asset discovery search completed in 10.7058 seconds
+[2018.10.15-18.57.12:851][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.15-18.57.12:851][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2018.10.15-18.57.13:657][ 80]LogSlate: Took 0.000366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.15-18.57.17:842][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-18.57.18:024][607]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:593).
+[2018.10.15-18.57.18:040][607]LogEditorViewport: Clicking on Actor (double click): FbxScene_Level_C (FbxScene_Level)
+[2018.10.15-18.57.21:093][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-18.57.21:203][956]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.15-18.57.21:221][956]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.15-18.57.21:235][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.15-18.57.21:251][956]PIE: New page: PIE session: Level1 (Oct 15, 2018, 10:57:21 AM)
+[2018.10.15-18.57.21:251][956]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.10.15-18.57.21:258][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007292s)
+[2018.10.15-18.57.21:259][956]LogAIModule: Creating AISystem for world Level1
+[2018.10.15-18.57.21:259][956]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2018.10.15-18.57.21:262][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.010990s)
+[2018.10.15-18.57.21:287][956]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.15-18.57.21:302][956]LogInit: FAudioDevice initialized.
+[2018.10.15-18.57.21:309][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-18.57.21:372][956]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.15-18.57.21:378][956]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.10.15-14.57.21
+[2018.10.15-18.57.21:380][956]LogWorld: Bringing up level for play took: 0.003463
+[2018.10.15-18.57.21:398][956]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.10.15-18.57.21:410][956]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 -0.372
+[2018.10.15-18.57.21:428][956]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.10.15-18.57.26:038][493]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.10.15-18.57.27:777][668]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.10.15-18.57.29:117][805]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.10.15-18.57.29:290][823]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.10.15-18.57.30:305][935]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.10.15-18.57.30:727][981]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.15-18.57.31:115][ 25]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.15-18.57.31:881][108]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.15-18.58.34:372][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-18.58.34:387][738]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.15-18.58.34:419][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.15-18.58.34:474][740]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.10.15-18.59.00:390][866]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Enemy_Blueprint.Enemy_Blueprint
+[2018.10.15-18.59.00:868][866]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.10.15-18.59.01:576][866]LogSlate: Took 0.004679 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.15-18.59.01:738][867]LogSlate: Took 0.001567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.15-19.04.07:971][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-19.04.11:871][538]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.15-19.04.11:889][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.15-19.04.11:889][538]PIE: New page: PIE session: Level1 (Oct 15, 2018, 11:04:11 AM)
+[2018.10.15-19.04.11:889][538]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.10.15-19.04.11:895][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005803s)
+[2018.10.15-19.04.11:896][538]LogAIModule: Creating AISystem for world Level1
+[2018.10.15-19.04.11:896][538]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2018.10.15-19.04.11:896][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.006700s)
+[2018.10.15-19.04.11:925][538]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.15-19.04.11:939][538]LogInit: FAudioDevice initialized.
+[2018.10.15-19.04.11:945][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.04.11:986][538]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.15-19.04.11:988][538]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.10.15-15.04.11
+[2018.10.15-19.04.11:989][538]LogWorld: Bringing up level for play took: 0.001478
+[2018.10.15-19.04.12:014][538]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 -0.098
+[2018.10.15-19.05.30:004][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.05.30:025][757]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.15-19.05.30:061][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.15-19.05.30:210][758]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.10.15-19.05.45:634][398]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Crosshair.Crosshair
+[2018.10.15-19.06.03:498][981]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.15-19.06.05:230][184]BlueprintLog: New page: Compile Crosshair
+[2018.10.15-19.06.05:351][184]BlueprintLog: New page: Compile Crosshair
+[2018.10.15-19.06.06:187][261]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/Crosshair56D38FBD4B5BB163D80F5FB0AA98BEA7.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/ThirdPersonBP/Blueprints/Crosshair.uasset'
+[2018.10.15-19.06.09:160][612]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.15-19.06.09:177][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.15-19.06.09:177][612]PIE: New page: PIE session: Level1 (Oct 15, 2018, 11:06:09 AM)
+[2018.10.15-19.06.09:177][612]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.10.15-19.06.09:183][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005483s)
+[2018.10.15-19.06.09:183][612]LogAIModule: Creating AISystem for world Level1
+[2018.10.15-19.06.09:183][612]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2018.10.15-19.06.09:183][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.006281s)
+[2018.10.15-19.06.09:210][612]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.15-19.06.09:225][612]LogInit: FAudioDevice initialized.
+[2018.10.15-19.06.09:230][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.06.09:265][612]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.15-19.06.09:268][612]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.10.15-15.06.09
+[2018.10.15-19.06.09:268][612]LogWorld: Bringing up level for play took: 0.001496
+[2018.10.15-19.06.09:292][612]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 -0.814
+[2018.10.15-19.06.18:061][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.06.18:075][493]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.15-19.06.18:110][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.15-19.06.18:236][494]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.10.15-19.14.21:984][321]BlueprintLog: New page: Compile Enemy_Blueprint
+[2018.10.15-19.14.22:732][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy_Blueprint" FILE="../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Enemy_Blueprint.uasset" SILENT=true
+[2018.10.15-19.14.22:828][374]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/Enemy_Blueprint3411BB0F4BCF9FD558EBF98DC661F742.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Enemy_Blueprint.uasset'
+[2018.10.15-19.14.24:617][497]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.15-19.14.24:641][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.15-19.14.24:642][497]PIE: New page: PIE session: Level1 (Oct 15, 2018, 11:14:24 AM)
+[2018.10.15-19.14.24:642][497]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.10.15-19.14.24:646][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004561s)
+[2018.10.15-19.14.24:647][497]LogAIModule: Creating AISystem for world Level1
+[2018.10.15-19.14.24:647][497]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2018.10.15-19.14.24:647][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.005302s)
+[2018.10.15-19.14.24:671][497]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.15-19.14.24:684][497]LogInit: FAudioDevice initialized.
+[2018.10.15-19.14.24:690][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.14.24:722][497]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.15-19.14.24:724][497]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.10.15-15.14.24
+[2018.10.15-19.14.24:724][497]LogWorld: Bringing up level for play took: 0.001384
+[2018.10.15-19.14.24:741][497]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 0.745
+[2018.10.15-19.15.37:143][824]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.15-19.15.59:227][239]LogRenderer: Reallocating scene render targets to support 1292x1128 Format 10 NumSamples 1 (Frame:10744).
+[2018.10.15-19.16.52:385][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.16.52:405][242]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.15-19.16.52:441][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.15-19.16.52:567][243]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.10.15-19.16.56:667][721]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.10.15-19.17.26:734][822]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.15-19.17.31:066][310]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/Level1_Auto165F6575B483FB66B33679CB0604E85B2.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Level1_Auto1.umap'
+[2018.10.15-19.17.31:074][310]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1/Level1' took 0.114
+[2018.10.15-19.17.31:074][310]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.114
+[2018.10.15-19.18.09:758][659]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.10.15-19.18.10:598][713]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/ThirdPersonCharacterEBF5068341552A0B392D8D9C01D04AF9.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.10.15-19.18.11:939][873]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.15-19.18.11:958][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.15-19.18.11:958][873]PIE: New page: PIE session: Level1 (Oct 15, 2018, 11:18:11 AM)
+[2018.10.15-19.18.11:958][873]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.10.15-19.18.11:964][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006124s)
+[2018.10.15-19.18.11:965][873]LogAIModule: Creating AISystem for world Level1
+[2018.10.15-19.18.11:965][873]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2018.10.15-19.18.11:965][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.006843s)
+[2018.10.15-19.18.11:991][873]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.15-19.18.12:003][873]LogInit: FAudioDevice initialized.
+[2018.10.15-19.18.12:008][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.18.12:047][873]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.15-19.18.12:049][873]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.10.15-15.18.12
+[2018.10.15-19.18.12:049][873]LogWorld: Bringing up level for play took: 0.001343
+[2018.10.15-19.18.12:067][873]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 0.071
+[2018.10.15-19.21.37:866][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.21.37:887][306]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.15-19.21.37:923][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.15-19.21.37:974][307]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.10.15-19.22.27:800][590]LogEditorViewport: Clicking on Actor (LMB): SoundMaker_C (SoundMaker)
+[2018.10.15-19.22.28:862][713]LogEditorViewport: Clicking on Actor (LMB): SoundMaker_C (SoundMaker)
+[2018.10.15-19.22.28:940][720]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (SkeletalMesh)
+[2018.10.15-19.24.10:817][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-19.24.18:712][781]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2018.10.15-19.24.18:736][781]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2018.10.15-19.24.18:972][781]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-19.24.18:978][781]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.10.15-19.24.19:038][781]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.15-19.24.19:376][781]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.10.15-19.24.19:380][781]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.15-19.24.19:932][826]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2018.10.15-19.24.30:836][816]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2018.10.15-19.24.31:272][816]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-19.24.31:482][816]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.15-19.28.26:226][229]LogEditorTransaction: Undo Move Node
+[2018.10.15-19.28.26:388][229]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-19.28.26:389][229]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-19.30.28:087][240]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.10.15-19.30.28:105][240]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.15-19.30.28:105][240]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.15-19.30.28:234][240]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] [2027.80] Compile of ThirdPerson_AnimBP failed. 2 Fatal Issue(s) 0 Warning(s) [in 146 ms] (/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP)
+[2018.10.15-19.30.52:985][635]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.10.15-19.30.53:003][635]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2018.10.15-19.30.53:127][635]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] [2052.69] Compile of ThirdPerson_AnimBP failed. 1 Fatal Issue(s) 0 Warning(s) [in 142 ms] (/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP)
+[2018.10.15-19.30.53:128][635]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.10.15-19.30.53:145][635]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2018.10.15-19.30.53:268][635]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] [2052.83] Compile of ThirdPerson_AnimBP failed. 1 Fatal Issue(s) 0 Warning(s) [in 139 ms] (/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP)
+[2018.10.15-19.30.53:945][688]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/ThirdPerson_AnimBPC7EB09874DA1C47CBFCA108AA7F81FB0.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2018.10.15-19.31.00:136][262]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::GetTransform' [Element not found.]
+[2018.10.15-19.31.29:216][103]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.10.15-19.31.29:235][103]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2018.10.15-19.31.29:354][103]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] [2088.92] Compile of ThirdPerson_AnimBP failed. 1 Fatal Issue(s) 0 Warning(s) [in 137 ms] (/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP)
+[2018.10.15-19.31.34:233][574]LogEditorTransaction: Undo Move Node
+[2018.10.15-19.31.34:399][574]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-19.31.34:400][574]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-19.31.57:137][703]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.10.15-19.31.57:155][703]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2018.10.15-19.31.57:283][703]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] [2116.85] Compile of ThirdPerson_AnimBP failed. 1 Fatal Issue(s) 0 Warning(s) [in 146 ms] (/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP)
+[2018.10.15-19.32.24:418][195]LogEditorTransaction: Undo Move Node
+[2018.10.15-19.32.24:582][195]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-19.32.24:583][195]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-19.32.25:219][245]LogEditorTransaction: Undo Add Node
+[2018.10.15-19.32.25:382][245]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-19.32.25:383][245]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-19.33.00:364][965]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/Level1_Auto281270F0F4541854B307537B0E4C9DFCE.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Level1_Auto2.umap'
+[2018.10.15-19.33.00:372][965]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1/Level1' took 0.119
+[2018.10.15-19.33.00:372][965]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.119
+[2018.10.15-19.33.00:376][965]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_AnimBP] ([1] browsable assets)...
+[2018.10.15-19.33.00:393][965]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2018.10.15-19.33.00:393][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_AnimBP]
+[2018.10.15-19.33.00:450][965]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/ThirdPerson_AnimBP_Auto29A5F39974E24239C07CE23AD9D468B91.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto2.uasset'
+[2018.10.15-19.33.00:455][965]LogFileHelpers: Auto-saving content packages took 0.081
+[2018.10.15-19.36.34:117][179]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.10.15-19.36.34:135][179]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.15-19.36.34:135][179]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.15-19.36.34:266][179]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] [2393.83] Compile of ThirdPerson_AnimBP failed. 2 Fatal Issue(s) 0 Warning(s) [in 149 ms] (/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP)
+[2018.10.15-19.37.19:801][443]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.10.15-19.37.20:920][523]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/ThirdPerson_AnimBPADD06A384ECB01A07C14D093741FDAF3.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2018.10.15-19.37.23:207][732]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.15-19.37.23:227][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.15-19.37.23:227][732]PIE: New page: PIE session: Level1 (Oct 15, 2018, 11:37:23 AM)
+[2018.10.15-19.37.23:227][732]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.10.15-19.37.23:233][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005986s)
+[2018.10.15-19.37.23:234][732]LogAIModule: Creating AISystem for world Level1
+[2018.10.15-19.37.23:234][732]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2018.10.15-19.37.23:234][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.006904s)
+[2018.10.15-19.37.23:263][732]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.15-19.37.23:276][732]LogInit: FAudioDevice initialized.
+[2018.10.15-19.37.23:281][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.37.23:318][732]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.15-19.37.23:321][732]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.10.15-15.37.23
+[2018.10.15-19.37.23:322][732]LogWorld: Bringing up level for play took: 0.002339
+[2018.10.15-19.37.23:339][732]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 -0.665
+[2018.10.15-19.37.36:782][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.37.36:795][691]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.15-19.37.36:829][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.15-19.37.36:893][692]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.10.15-19.37.48:704][834]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.10.15-19.37.55:298][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-19.38.23:942][193]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.10.15-19.38.24:639][238]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/ThirdPerson_AnimBP8451759246665426F7FEB2AFF36A56A7.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2018.10.15-19.38.26:118][374]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.15-19.38.26:138][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.15-19.38.26:138][374]PIE: New page: PIE session: Level1 (Oct 15, 2018, 11:38:26 AM)
+[2018.10.15-19.38.26:138][374]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.10.15-19.38.26:146][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008203s)
+[2018.10.15-19.38.26:147][374]LogAIModule: Creating AISystem for world Level1
+[2018.10.15-19.38.26:147][374]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2018.10.15-19.38.26:147][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.009238s)
+[2018.10.15-19.38.26:174][374]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.15-19.38.26:185][374]LogInit: FAudioDevice initialized.
+[2018.10.15-19.38.26:191][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.38.26:227][374]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.15-19.38.26:229][374]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.10.15-15.38.26
+[2018.10.15-19.38.26:229][374]LogWorld: Bringing up level for play took: 0.001409
+[2018.10.15-19.38.26:246][374]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 0.241
+[2018.10.15-19.38.40:193][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.38.40:207][676]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.15-19.38.40:241][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.15-19.38.40:302][677]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.10.15-19.38.43:786][ 66]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.15-19.38.53:303][162]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.10.15-19.38.55:530][384]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.15-19.38.55:552][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.15-19.38.55:552][384]PIE: New page: PIE session: Level1 (Oct 15, 2018, 11:38:55 AM)
+[2018.10.15-19.38.55:552][384]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.10.15-19.38.55:556][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004031s)
+[2018.10.15-19.38.55:557][384]LogAIModule: Creating AISystem for world Level1
+[2018.10.15-19.38.55:557][384]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2018.10.15-19.38.55:557][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.004756s)
+[2018.10.15-19.38.55:587][384]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.15-19.38.55:599][384]LogInit: FAudioDevice initialized.
+[2018.10.15-19.38.55:604][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.38.55:636][384]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.15-19.38.55:638][384]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.10.15-15.38.55
+[2018.10.15-19.38.55:638][384]LogWorld: Bringing up level for play took: 0.001194
+[2018.10.15-19.38.55:656][384]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 -0.348
+[2018.10.15-19.40.02:955][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.40.02:977][289]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.15-19.40.03:016][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.15-19.40.03:081][290]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.10.15-19.41.10:350][524]LogEditorTransaction: Undo Move Node
+[2018.10.15-19.41.10:511][524]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-19.41.10:513][524]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-19.41.59:412][100]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.10.15-19.42.00:375][180]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/ThirdPerson_AnimBP62FD3D844932A1923668AF9657064095.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2018.10.15-19.42.02:030][358]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.15-19.42.02:050][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.15-19.42.02:050][358]PIE: New page: PIE session: Level1 (Oct 15, 2018, 11:42:02 AM)
+[2018.10.15-19.42.02:050][358]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.10.15-19.42.02:055][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005401s)
+[2018.10.15-19.42.02:055][358]LogAIModule: Creating AISystem for world Level1
+[2018.10.15-19.42.02:056][358]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2018.10.15-19.42.02:056][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.006263s)
+[2018.10.15-19.42.02:086][358]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.15-19.42.02:098][358]LogInit: FAudioDevice initialized.
+[2018.10.15-19.42.02:103][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.42.02:140][358]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.15-19.42.02:143][358]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.10.15-15.42.02
+[2018.10.15-19.42.02:143][358]LogWorld: Bringing up level for play took: 0.002075
+[2018.10.15-19.42.02:165][358]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 0.158
+[2018.10.15-19.42.05:141][625]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=16.35 Y=65.11 Z=0.00 Location: X=613.14 Y=-267.90 Z=133.06 Normal: X=-0.28 Y=-0.96 Z=-0.02 PenetrationDepth:0.089 Actor:Enemy_Blueprint_C_2 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.10.15-19.42.13:558][383]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=445.81 Y=-401.57 Z=0.00 Location: X=2837.19 Y=284.10 Z=323.14 Normal: X=-0.12 Y=0.99 Z=0.00 PenetrationDepth:42.485 Actor:Enemy_Blueprint_C_15 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.10.15-19.42.40:948][810]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-515.42 Y=307.15 Z=0.00 Location: X=2591.23 Y=-1026.30 Z=353.97 Normal: X=1.00 Y=-0.05 Z=-0.00 PenetrationDepth:69.096 Actor:Enemy_Blueprint_C_28 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.10.15-19.42.48:139][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.42.48:161][442]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.15-19.42.48:196][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.15-19.42.48:257][443]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.10.15-19.44.19:671][100]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.15-19.44.19:695][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.15-19.44.19:695][100]PIE: New page: PIE session: Level1 (Oct 15, 2018, 11:44:19 AM)
+[2018.10.15-19.44.19:695][100]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.10.15-19.44.19:701][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005621s)
+[2018.10.15-19.44.19:702][100]LogAIModule: Creating AISystem for world Level1
+[2018.10.15-19.44.19:702][100]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2018.10.15-19.44.19:702][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.006394s)
+[2018.10.15-19.44.19:734][100]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.15-19.44.19:746][100]LogInit: FAudioDevice initialized.
+[2018.10.15-19.44.19:749][100]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.15-19.44.19:752][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.44.19:787][100]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.15-19.44.19:789][100]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.10.15-15.44.19
+[2018.10.15-19.44.19:789][100]LogWorld: Bringing up level for play took: 0.001425
+[2018.10.15-19.44.19:807][100]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 -0.206
+[2018.10.15-19.44.26:509][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.44.26:523][711]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.15-19.44.26:556][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.15-19.44.26:615][712]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.10.15-19.44.47:316][ 18]Cmd: TRANSACTION UNDO
+[2018.10.15-19.44.47:316][ 18]LogEditorTransaction: Undo Move Anim Notify
+[2018.10.15-19.44.47:462][ 18]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-19.44.47:463][ 18]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-19.46.11:152][468]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/ThirdPersonRun6965C9B744BED0EE468FE5907AEB914E.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Mannequin/Animations/ThirdPersonRun.uasset'
+[2018.10.15-19.46.12:679][625]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.15-19.46.12:698][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.15-19.46.12:698][625]PIE: New page: PIE session: Level1 (Oct 15, 2018, 11:46:12 AM)
+[2018.10.15-19.46.12:698][625]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.10.15-19.46.12:704][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005711s)
+[2018.10.15-19.46.12:705][625]LogAIModule: Creating AISystem for world Level1
+[2018.10.15-19.46.12:705][625]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2018.10.15-19.46.12:705][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.006608s)
+[2018.10.15-19.46.12:730][625]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.15-19.46.12:742][625]LogInit: FAudioDevice initialized.
+[2018.10.15-19.46.12:747][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.46.12:786][625]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.15-19.46.12:790][625]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.10.15-15.46.12
+[2018.10.15-19.46.12:790][625]LogWorld: Bringing up level for play took: 0.002569
+[2018.10.15-19.46.12:814][625]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 0.8
+[2018.10.15-19.46.18:616][117]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=24.01 Y=-9.23 Z=0.00 Location: X=1318.63 Y=250.18 Z=323.15 Normal: X=0.11 Y=0.99 Z=0.00 PenetrationDepth:6.443 Actor:Enemy_Blueprint_C_15 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.10.15-19.46.19:886][220]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=21.28 Y=-15.41 Z=0.00 Location: X=1376.07 Y=73.98 Z=323.12 Normal: X=-0.97 Y=-0.26 Z=0.00 PenetrationDepth:1.384 Actor:Enemy_Blueprint_C_19 Component:StaticMeshComponent0 BoneName:None (3 other events since notify)
+[2018.10.15-19.46.26:650][777]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-593.11 Y=-90.64 Z=0.00 Location: X=3230.35 Y=-1217.38 Z=903.39 Normal: X=1.00 Y=0.01 Z=-0.00 PenetrationDepth:46.085 Actor:Enemy_Blueprint_C_29 Component:StaticMeshComponent0 BoneName:None (1 other events since notify)
+[2018.10.15-19.46.29:027][972]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-27.03 Y=-6.33 Z=0.00 Location: X=3022.97 Y=-1227.95 Z=903.40 Normal: X=-0.45 Y=0.89 Z=0.01 PenetrationDepth:0.127 Actor:Enemy_Blueprint_C_34 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.10.15-19.46.30:571][ 94]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-92.63 Y=-52.18 Z=0.00 Location: X=2848.89 Y=-1473.71 Z=923.15 Normal: X=0.72 Y=-0.69 Z=-0.00 PenetrationDepth:0.075 Actor:Enemy_Blueprint_C_40 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.10.15-19.46.36:550][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.46.36:564][575]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.15-19.46.36:601][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.15-19.46.36:666][576]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.10.15-19.50.11:938][170]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1/Level1' took 0.028
+[2018.10.15-19.50.11:942][170]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy_Blueprint] ([1] browsable assets)...
+[2018.10.15-19.50.11:953][170]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy_Blueprint.Enemy_Blueprint]
+[2018.10.15-19.50.11:953][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy_Blueprint]
+[2018.10.15-19.50.12:050][170]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/Enemy_Blueprint_Auto350CA4F9F41A7C5E48E9D6F9235B7A6A0.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/Autosaves/Game/Enemy_Blueprint_Auto3.uasset'
+[2018.10.15-19.50.12:054][170]LogFileHelpers: Auto-saving content packages took 0.115
+[2018.10.15-19.53.34:714][812]LogEditorTransaction: Undo Add Node
+[2018.10.15-19.53.34:880][812]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-19.53.34:881][812]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-19.57.04:245][739]BlueprintLog: New page: Compile Enemy_Blueprint
+[2018.10.15-19.57.04:946][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy_Blueprint" FILE="../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Enemy_Blueprint.uasset" SILENT=true
+[2018.10.15-19.57.05:042][788]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/Enemy_BlueprintA7A863184BAECACF90F3C1A02396A09D.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Enemy_Blueprint.uasset'
+[2018.10.15-19.57.08:072][ 79]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.15-19.57.08:105][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.15-19.57.08:105][ 79]PIE: New page: PIE session: Level1 (Oct 15, 2018, 11:57:08 AM)
+[2018.10.15-19.57.08:105][ 79]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.10.15-19.57.08:111][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005400s)
+[2018.10.15-19.57.08:111][ 79]LogAIModule: Creating AISystem for world Level1
+[2018.10.15-19.57.08:111][ 79]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2018.10.15-19.57.08:111][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.006153s)
+[2018.10.15-19.57.08:142][ 79]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.15-19.57.08:154][ 79]LogInit: FAudioDevice initialized.
+[2018.10.15-19.57.08:159][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.57.08:200][ 79]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.15-19.57.08:202][ 79]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.10.15-15.57.08
+[2018.10.15-19.57.08:203][ 79]LogWorld: Bringing up level for play took: 0.001870
+[2018.10.15-19.57.08:221][ 79]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 0.208
+[2018.10.15-19.57.13:511][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-19.57.13:526][592]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.15-19.57.13:573][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.15-19.57.13:668][593]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.10.15-19.58.36:478][556]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SoundCollision_Blueprint.SoundCollision_Blueprint
+[2018.10.15-19.58.51:729][976]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.15-19.58.51:819][976]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.15-19.58.51:888][976]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.15-19.58.52:439][976]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2018.10.15-19.59.19:271][597]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.15-20.00.19:545][809]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/Level1_Auto40CA6E0164D3C7A249CD7F9B93D6944A5.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Level1_Auto4.umap'
+[2018.10.15-20.00.19:553][809]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1/Level1' took 0.108
+[2018.10.15-20.00.19:553][809]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.108
+[2018.10.15-20.00.19:557][809]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SFX/NewBlueprint] ([1] browsable assets)...
+[2018.10.15-20.00.19:557][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/NewBlueprint]
+[2018.10.15-20.00.19:565][809]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/NewBlueprint_Auto4D8D26E27404559F9AB4960B51DA1C73F.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/Autosaves/Game/Audio/SFX/NewBlueprint_Auto4.uasset'
+[2018.10.15-20.00.19:569][809]LogFileHelpers: Auto-saving content packages took 0.015
+[2018.10.15-20.01.23:139][433]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Audio/SFX/NewBlueprint.NewBlueprint
+[2018.10.15-20.01.29:891][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-20.01.30:032][164]LogSlate: Window 'NewBlueprint*' being destroyed
+[2018.10.15-20.01.35:306][784]LogMetaData: Removing '/Game/Audio/SFX/Footstep.Footstep:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Audio/SFX/NewBlueprint.PackageMetaData'
+[2018.10.15-20.01.35:306][784]LogMetaData: Removing '/Game/Audio/SFX/Footstep.SKEL_Footstep_C' ref from Metadata '/Game/Audio/SFX/NewBlueprint.PackageMetaData'
+[2018.10.15-20.01.35:306][784]LogMetaData: Removing '/Game/Audio/SFX/Footstep.Footstep_C' ref from Metadata '/Game/Audio/SFX/NewBlueprint.PackageMetaData'
+[2018.10.15-20.01.35:306][784]LogMetaData: Removing '/Game/Audio/SFX/Footstep.Footstep:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Audio/SFX/NewBlueprint.PackageMetaData'
+[2018.10.15-20.01.35:306][784]LogMetaData: Removing '/Game/Audio/SFX/Footstep.Footstep:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Audio/SFX/NewBlueprint.PackageMetaData'
+[2018.10.15-20.01.35:306][784]LogMetaData: Removing '/Game/Audio/SFX/Footstep.Footstep:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Audio/SFX/NewBlueprint.PackageMetaData'
+[2018.10.15-20.01.35:319][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/Footstep" FILE="../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Audio/SFX/Footstep.uasset" SILENT=true
+[2018.10.15-20.01.35:327][784]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/Footstep1FB58F69425AFE07E89CF688EF3236F7.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Audio/SFX/Footstep.uasset'
+[2018.10.15-20.01.45:956][ 35]LogMetaData: Removing '/Game/Audio/SFX/SoundCollision.SoundCollision_C' ref from Metadata '/Game/Audio/SFX/Footstep.PackageMetaData'
+[2018.10.15-20.01.45:956][ 35]LogMetaData: Removing '/Game/Audio/SFX/SoundCollision.SKEL_SoundCollision_C' ref from Metadata '/Game/Audio/SFX/Footstep.PackageMetaData'
+[2018.10.15-20.01.45:956][ 35]LogMetaData: Removing '/Game/Audio/SFX/SoundCollision.SoundCollision:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Audio/SFX/Footstep.PackageMetaData'
+[2018.10.15-20.01.45:956][ 35]LogMetaData: Removing '/Game/Audio/SFX/SoundCollision.SoundCollision:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Audio/SFX/Footstep.PackageMetaData'
+[2018.10.15-20.01.45:957][ 35]LogMetaData: Removing '/Game/Audio/SFX/SoundCollision.SoundCollision:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Audio/SFX/Footstep.PackageMetaData'
+[2018.10.15-20.01.45:957][ 35]LogMetaData: Removing '/Game/Audio/SFX/SoundCollision.SoundCollision:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Audio/SFX/Footstep.PackageMetaData'
+[2018.10.15-20.01.45:970][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/SoundCollision" FILE="../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Audio/SFX/SoundCollision.uasset" SILENT=true
+[2018.10.15-20.01.45:978][ 35]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/SoundCollision61BF0D8B45861AFF2CA6FBA60252FA32.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Audio/SFX/SoundCollision.uasset'
+[2018.10.15-20.02.04:905][285]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Audio/SFX/SoundCollision.SoundCollision
+[2018.10.15-20.02.22:741][261]LogSlate: Window 'SoundCollision' being destroyed
+[2018.10.15-20.02.22:809][261]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Audio/SFX/SoundCollision.SoundCollision
+[2018.10.15-20.02.39:660][173]LogSlate: Took 0.007730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.15-20.07.26:853][811]LogEditorTransaction: Undo Add Component
+[2018.10.15-20.11.26:518][822]BlueprintLog: New page: Compile SoundCollision
+[2018.10.15-20.11.27:224][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/SoundCollision" FILE="../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Audio/SFX/SoundCollision.uasset" SILENT=true
+[2018.10.15-20.11.27:261][888]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/SoundCollision9E44536B4CF6ECFAD4DD5E807E948830.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Audio/SFX/SoundCollision.uasset'
+[2018.10.15-20.12.18:740][ 57]Cmd: TRANSACTION UNDO
+[2018.10.15-20.12.18:740][ 57]LogEditorTransaction: Undo Add Variable
+[2018.10.15-20.12.37:085][236]BlueprintLog: New page: Compile SoundCollision
+[2018.10.15-20.14.13:817][741]BlueprintLog: New page: Compile SoundCollision
+[2018.10.15-20.14.35:483][316]BlueprintLog: New page: Compile SoundCollision
+[2018.10.15-20.14.36:607][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/SoundCollision" FILE="../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Audio/SFX/SoundCollision.uasset" SILENT=true
+[2018.10.15-20.14.36:644][431]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/SoundCollision686D678A4615CF2A53EDB7BE3AC5E305.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Audio/SFX/SoundCollision.uasset'
+[2018.10.15-20.14.42:143][ 85]BlueprintLog: New page: Compile SoundCollision
+[2018.10.15-20.14.42:708][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/SoundCollision" FILE="../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Audio/SFX/SoundCollision.uasset" SILENT=true
+[2018.10.15-20.14.42:734][135]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/SoundCollisionE3BBB63244C9F205A69480B2CEE412FD.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Audio/SFX/SoundCollision.uasset'
+[2018.10.15-20.14.53:281][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-20.17.06:432][334]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2018.10.15-20.17.06:438][334]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-20.17.06:476][334]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.15-20.17.06:769][334]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.15-20.17.42:489][522]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2018.10.15-20.17.42:497][522]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.15-20.17.42:704][522]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.15-20.17.51:802][577]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.15-20.18.24:082][306]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.10.15-20.18.25:002][385]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/ThirdPerson_AnimBP72B24A5B4D865F66B2C022BACBDDC236.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2018.10.15-20.18.26:499][550]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/Level1EB4E70A44CC593B2FE0AB3A9780109E1.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Levels/Level1/Level1.umap'
+[2018.10.15-20.18.26:532][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1/Level1_BuiltData" FILE="../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Levels/Level1/Level1_BuiltData.uasset" SILENT=true
+[2018.10.15-20.18.26:886][550]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/Level1_BuiltDataD070B5234496B0F712BC23A600BB4A23.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Levels/Level1/Level1_BuiltData.uasset'
+[2018.10.15-20.18.29:792][898]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.15-20.18.29:806][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.15-20.18.29:806][898]PIE: New page: PIE session: Level1 (Oct 15, 2018, 12:18:29 PM)
+[2018.10.15-20.18.29:806][898]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.10.15-20.18.29:810][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004199s)
+[2018.10.15-20.18.29:811][898]LogAIModule: Creating AISystem for world Level1
+[2018.10.15-20.18.29:811][898]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2018.10.15-20.18.29:811][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.004986s)
+[2018.10.15-20.18.29:839][898]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.15-20.18.29:852][898]LogInit: FAudioDevice initialized.
+[2018.10.15-20.18.29:857][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-20.18.29:896][898]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.15-20.18.29:897][898]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.10.15-16.18.29
+[2018.10.15-20.18.29:898][898]LogWorld: Bringing up level for play took: 0.001243
+[2018.10.15-20.18.29:914][898]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 -0.11
+[2018.10.15-20.18.36:295][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-20.18.36:309][656]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.15-20.18.36:339][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.15-20.18.36:401][659]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2018.10.15-20.18.46:527][853]BlueprintLog: New page: Compile SoundCollision
+[2018.10.15-20.18.47:436][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/SoundCollision" FILE="../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Audio/SFX/SoundCollision.uasset" SILENT=true
+[2018.10.15-20.18.47:470][942]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Saved/SoundCollisionB1C93CFC479DE5A3F1A94E976B2202E5.tmp' to '../../../../../../Users/student/Documents/GitHub/GAME310_RamboBambi/Content/Audio/SFX/SoundCollision.uasset'
+[2018.10.15-20.18.48:909][113]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.15-20.18.48:923][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.15-20.18.48:923][113]PIE: New page: PIE session: Level1 (Oct 15, 2018, 12:18:48 PM)
+[2018.10.15-20.18.48:923][113]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.10.15-20.18.48:927][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004197s)
+[2018.10.15-20.18.48:928][113]LogAIModule: Creating AISystem for world Level1
+[2018.10.15-20.18.48:928][113]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2018.10.15-20.18.48:928][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.004943s)
+[2018.10.15-20.18.48:954][113]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.15-20.18.48:966][113]LogInit: FAudioDevice initialized.
+[2018.10.15-20.18.48:972][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-20.18.49:005][113]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.15-20.18.49:008][113]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.10.15-16.18.49
+[2018.10.15-20.18.49:008][113]LogWorld: Bringing up level for play took: 0.001716
+[2018.10.15-20.18.49:025][113]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 1.001
+[2018.10.15-20.18.50:278][257]LogBlueprintUserMessages: [SoundCollision_C_0] Hello
+[2018.10.15-20.18.50:520][286]LogBlueprintUserMessages: [SoundCollision_C_1] Hello
+[2018.10.15-20.18.50:878][329]LogBlueprintUserMessages: [SoundCollision_C_2] Hello
+[2018.10.15-20.18.51:120][358]LogBlueprintUserMessages: [SoundCollision_C_3] Hello
+[2018.10.15-20.18.51:478][401]LogBlueprintUserMessages: [SoundCollision_C_4] Hello
+[2018.10.15-20.18.51:720][430]LogBlueprintUserMessages: [SoundCollision_C_5] Hello
+[2018.10.15-20.18.52:072][472]LogBlueprintUserMessages: [SoundCollision_C_6] Hello
+[2018.10.15-20.18.52:323][502]LogBlueprintUserMessages: [SoundCollision_C_7] Hello
+[2018.10.15-20.18.52:673][544]LogBlueprintUserMessages: [SoundCollision_C_8] Hello
+[2018.10.15-20.18.52:923][574]LogBlueprintUserMessages: [SoundCollision_C_9] Hello
+[2018.10.15-20.18.53:273][616]LogBlueprintUserMessages: [SoundCollision_C_10] Hello
+[2018.10.15-20.18.53:523][646]LogBlueprintUserMessages: [SoundCollision_C_11] Hello
+[2018.10.15-20.18.53:873][688]LogBlueprintUserMessages: [SoundCollision_C_12] Hello
+[2018.10.15-20.18.54:124][718]LogBlueprintUserMessages: [SoundCollision_C_13] Hello
+[2018.10.15-20.18.54:475][760]LogBlueprintUserMessages: [SoundCollision_C_14] Hello
+[2018.10.15-20.18.54:726][790]LogBlueprintUserMessages: [SoundCollision_C_15] Hello
+[2018.10.15-20.18.55:075][832]LogBlueprintUserMessages: [SoundCollision_C_16] Hello
+[2018.10.15-20.18.55:326][862]LogBlueprintUserMessages: [SoundCollision_C_17] Hello
+[2018.10.15-20.18.55:676][904]LogBlueprintUserMessages: [SoundCollision_C_18] Hello
+[2018.10.15-20.18.55:902][931]LogBlueprintUserMessages: [SoundCollision_C_19] Hello
+[2018.10.15-20.18.56:336][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-20.18.56:354][983]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.15-20.18.56:383][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.15-20.18.56:441][985]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2018.10.15-20.18.59:613][313]LogSlate: Window 'SoundCollision' being destroyed
+[2018.10.15-20.18.59:667][313]LogSlate: Window 'GAME310_RamboBambi - Unreal Editor' being destroyed
+[2018.10.15-20.18.59:667][313]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.15-20.18.59:810][314]Cmd: QUIT_EDITOR
+[2018.10.15-20.19.00:149][314]LogExit: Preparing to exit.
+[2018.10.15-20.19.00:928][314]LogExit: Editor shut down
+[2018.10.15-20.19.00:928][314]LogExit: Transaction tracking system shut down
+[2018.10.15-20.19.01:361][314]LogExit: Object subsystem successfully closed.
+[2018.10.15-20.19.01:381][314]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.15-20.19.01:384][314]LogD3D11RHI: Shutdown
+[2018.10.15-20.19.01:384][314]LogD3D11RHI: CleanupD3DDevice
+[2018.10.15-20.19.01:386][314]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.15-20.19.01:422][314]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (628)
+[2018.10.15-20.19.01:422][314]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (626)
+[2018.10.15-20.19.01:422][314]LogModuleManager: Shutting down and abandoning module PinnedCommandList (624)
+[2018.10.15-20.19.01:422][314]LogModuleManager: Shutting down and abandoning module SkeletonEditor (622)
+[2018.10.15-20.19.01:422][314]LogModuleManager: Shutting down and abandoning module AnimationEditor (620)
+[2018.10.15-20.19.01:422][314]LogModuleManager: Shutting down and abandoning module BlueprintGraph (618)
+[2018.10.15-20.19.01:422][314]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2018.10.15-20.19.01:422][314]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2018.10.15-20.19.01:422][314]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.10.15-20.19.01:422][314]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.10.15-20.19.01:422][314]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.10.15-20.19.01:423][314]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.10.15-20.19.01:423][314]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.10.15-20.19.01:423][314]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.10.15-20.19.01:423][314]LogModuleManager: Shutting down and abandoning module MeshBuilder (600)
+[2018.10.15-20.19.01:423][314]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.10.15-20.19.01:423][314]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.10.15-20.19.01:423][314]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.10.15-20.19.01:424][314]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.10.15-20.19.01:424][314]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.10.15-20.19.01:424][314]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.10.15-20.19.01:424][314]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.10.15-20.19.01:424][314]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.10.15-20.19.01:424][314]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.10.15-20.19.01:424][314]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.10.15-20.19.01:424][314]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.10.15-20.19.01:424][314]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.10.15-20.19.01:424][314]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.10.15-20.19.01:424][314]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.10.15-20.19.01:424][314]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.10.15-20.19.01:424][314]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.10.15-20.19.01:424][314]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.10.15-20.19.01:424][314]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.10.15-20.19.01:425][314]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.10.15-20.19.01:426][314]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.10.15-20.19.01:426][314]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.10.15-20.19.01:427][314]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.10.15-20.19.01:427][314]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.10.15-20.19.01:427][314]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.10.15-20.19.01:427][314]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.10.15-20.19.01:427][314]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.10.15-20.19.01:427][314]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.10.15-20.19.01:545][314]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.10.15-20.19.01:545][314]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.10.15-20.19.01:545][314]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.10.15-20.19.01:545][314]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.10.15-20.19.01:545][314]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.10.15-20.19.01:545][314]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.10.15-20.19.01:545][314]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.10.15-20.19.01:546][314]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.10.15-20.19.01:546][314]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.10.15-20.19.01:546][314]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.10.15-20.19.01:546][314]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.10.15-20.19.01:546][314]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.10.15-20.19.01:546][314]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.10.15-20.19.01:546][314]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.10.15-20.19.01:546][314]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.10.15-20.19.01:546][314]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.10.15-20.19.01:547][314]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.10.15-20.19.01:547][314]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.10.15-20.19.01:547][314]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.10.15-20.19.01:547][314]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.10.15-20.19.01:548][314]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.10.15-20.19.01:548][314]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.10.15-20.19.01:602][314]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.10.15-20.19.01:602][314]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.10.15-20.19.01:603][314]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.10.15-20.19.01:605][314]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.10.15-20.19.01:605][314]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.10.15-20.19.01:605][314]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.10.15-20.19.01:605][314]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.10.15-20.19.01:605][314]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.10.15-20.19.01:605][314]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.10.15-20.19.01:606][314]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.10.15-20.19.01:614][314]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.10.15-20.19.01:614][314]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.10.15-20.19.01:616][314]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.10.15-20.19.01:616][314]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.10.15-20.19.01:616][314]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.10.15-20.19.01:617][314]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.10.15-20.19.01:617][314]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.10.15-20.19.01:617][314]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.10.15-20.19.01:617][314]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.10.15-20.19.01:618][314]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.10.15-20.19.01:618][314]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.10.15-20.19.01:618][314]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.10.15-20.19.01:618][314]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.10.15-20.19.01:618][314]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.10.15-20.19.01:618][314]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.10.15-20.19.01:618][314]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.10.15-20.19.01:618][314]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.10.15-20.19.01:618][314]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.10.15-20.19.01:618][314]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.10.15-20.19.01:618][314]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.10.15-20.19.01:618][314]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.10.15-20.19.01:618][314]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.10.15-20.19.01:863][314]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.10.15-20.19.01:863][314]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.10.15-20.19.01:863][314]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.10.15-20.19.01:863][314]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.10.15-20.19.01:863][314]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.10.15-20.19.01:863][314]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.10.15-20.19.01:863][314]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.10.15-20.19.01:863][314]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.10.15-20.19.01:864][314]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.10.15-20.19.01:864][314]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.10.15-20.19.01:864][314]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.10.15-20.19.01:864][314]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.10.15-20.19.01:864][314]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.10.15-20.19.01:864][314]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.10.15-20.19.01:865][314]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.10.15-20.19.01:865][314]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.10.15-20.19.01:865][314]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.10.15-20.19.01:865][314]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.10.15-20.19.01:869][314]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.10.15-20.19.01:869][314]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.10.15-20.19.01:869][314]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.10.15-20.19.01:869][314]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.10.15-20.19.01:869][314]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.10.15-20.19.01:869][314]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.10.15-20.19.01:869][314]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.10.15-20.19.01:869][314]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.10.15-20.19.01:869][314]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.10.15-20.19.01:869][314]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.10.15-20.19.01:869][314]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.10.15-20.19.01:869][314]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.10.15-20.19.01:870][314]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.10.15-20.19.01:870][314]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.10.15-20.19.01:870][314]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.10.15-20.19.01:871][314]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.10.15-20.19.01:871][314]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.10.15-20.19.01:871][314]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.10.15-20.19.01:871][314]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.10.15-20.19.01:871][314]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.10.15-20.19.01:871][314]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.10.15-20.19.01:871][314]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.10.15-20.19.01:871][314]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.10.15-20.19.01:871][314]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.10.15-20.19.01:872][314]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.10.15-20.19.01:872][314]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.10.15-20.19.01:872][314]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.10.15-20.19.01:872][314]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.10.15-20.19.01:872][314]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.10.15-20.19.01:872][314]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.10.15-20.19.01:872][314]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.10.15-20.19.01:872][314]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.10.15-20.19.01:872][314]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.15-20.19.01:872][314]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.15-20.19.01:872][314]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.15-20.19.01:872][314]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.15-20.19.01:872][314]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.15-20.19.01:872][314]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.15-20.19.01:872][314]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.15-20.19.01:872][314]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.15-20.19.01:872][314]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.15-20.19.01:974][314]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.15-20.19.02:074][314]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.15-20.19.02:074][314]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.15-20.19.02:074][314]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.15-20.19.02:074][314]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.15-20.19.02:074][314]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.15-20.19.02:074][314]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.15-20.19.02:075][314]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.15-20.19.02:075][314]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.15-20.19.02:076][314]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.15-20.19.02:076][314]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.15-20.19.02:076][314]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.15-20.19.02:077][314]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.15-20.19.02:078][314]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.15-20.19.02:078][314]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.15-20.19.02:078][314]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.15-20.19.02:078][314]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.15-20.19.02:078][314]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.15-20.19.02:078][314]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.15-20.19.02:079][314]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.15-20.19.02:086][314]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.15-20.19.02:086][314]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.15-20.19.02:086][314]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.15-20.19.02:086][314]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.15-20.19.02:086][314]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.15-20.19.02:086][314]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.15-20.19.02:086][314]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.15-20.19.02:086][314]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.15-20.19.02:087][314]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.15-20.19.02:087][314]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.15-20.19.02:087][314]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.15-20.19.02:087][314]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.15-20.19.02:087][314]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.15-20.19.02:087][314]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.15-20.19.02:088][314]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.15-20.19.02:089][314]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.15-20.19.02:090][314]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.15-20.19.02:090][314]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.15-20.19.02:090][314]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.15-20.19.02:090][314]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.15-20.19.02:092][314]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.15-20.19.02:092][314]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.15-20.19.02:092][314]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.15-20.19.02:092][314]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.15-20.19.02:092][314]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.15-20.19.02:092][314]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.15-20.19.02:092][314]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.15-20.19.02:092][314]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.15-20.19.02:092][314]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.15-20.19.02:092][314]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.15-20.19.02:092][314]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.15-20.19.02:092][314]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.15-20.19.02:092][314]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.15-20.19.02:093][314]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.15-20.19.02:093][314]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.15-20.19.02:093][314]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.15-20.19.02:093][314]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.15-20.19.02:093][314]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.15-20.19.02:122][314]LogDerivedDataCache: Shutdown
+[2018.10.15-20.19.02:122][314]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.15-20.19.02:122][314]LogXGEController: Cleaning working directory: C:/Users/student/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.15-20.19.02:123][314]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.15-20.19.02:123][314]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.15-20.19.02:123][314]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.15-20.19.02:123][314]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.15-20.19.02:123][314]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.15-20.19.02:123][314]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.15-20.19.02:124][314]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.15-20.19.02:124][314]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.15-20.19.02:124][314]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.15-20.19.02:124][314]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.15-20.19.02:124][314]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.15-20.19.02:124][314]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.15-20.19.02:124][314]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.15-20.19.02:124][314]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.15-20.19.02:124][314]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.15-20.19.02:124][314]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.15-20.19.02:124][314]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.15-20.19.02:124][314]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.15-20.19.02:124][314]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.15-20.19.02:124][314]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.15-20.19.02:124][314]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.15-20.19.02:124][314]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.15-20.19.02:125][314]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.15-20.19.02:125][314]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.15-20.19.02:125][314]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.15-20.19.02:125][314]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.15-20.19.02:129][314]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.15-20.19.02:129][314]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.15-20.19.02:129][314]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.15-20.19.02:130][314]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.15-20.19.02:130][314]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.15-20.19.02:130][314]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.15-20.19.02:130][314]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.15-20.19.02:130][314]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.15-20.19.02:130][314]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.15-20.19.02:130][314]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.15-20.19.02:130][314]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.15-20.19.02:130][314]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.15-20.19.02:130][314]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.15-20.19.02:130][314]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.15-20.19.02:130][314]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.15-20.19.02:130][314]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.15-20.19.02:130][314]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.15-20.19.02:130][314]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.15-20.19.02:130][314]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.15-20.19.02:132][314]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.15-20.19.02:156][314]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.15-20.19.02:156][314]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.15-20.19.02:156][314]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEDB200C3-4B17-893C-4ED7-9C94B7AC4769%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=f1af578d433169c2c345aca29eb36d0f%7Cd07e18f31907449eadc7b7082a6cc9d3%7C79182831-3314-483b-9cb8-219e64f5ac36&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.15-20.19.02:174][314]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.15-20.19.02:175][314]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.15-20.19.02:175][314]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.15-20.19.02:175][314]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.15-20.19.02:175][314]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.15-20.19.02:175][314]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.15-20.19.02:175][314]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.15-20.19.02:175][314]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.15-20.19.02:175][314]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.15-20.19.02:175][314]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.15-20.19.02:175][314]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.15-20.19.02:175][314]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.15-20.19.02:175][314]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.15-20.19.02:176][314]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.15-20.19.02:176][314]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.15-20.19.02:176][314]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.15-20.19.02:176][314]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.15-20.19.02:176][314]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.15-20.19.02:176][314]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.15-20.19.02:177][314]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.15-20.19.02:178][314]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.15-20.19.02:178][314]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.15-20.19.02:178][314]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.15-20.19.02:178][314]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.15-20.19.02:178][314]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.15-20.19.02:178][314]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.15-20.19.02:178][314]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.15-20.19.02:178][314]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.15-20.19.02:178][314]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.15-20.19.02:178][314]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.15-20.19.02:184][314]LogExit: Exiting.
+[2018.10.15-20.19.02:202][314]Log file closed, 10/15/18 16:19:02
