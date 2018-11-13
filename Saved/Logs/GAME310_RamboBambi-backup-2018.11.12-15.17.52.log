@@ -1,0 +1,1523 @@
+﻿Log file open, 11/12/18 11:47:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine without a game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: Loading recent project file: ../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/GAME310_RamboBambi.uproject
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 25.814368
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.441s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU:         Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.12-16.47.09:946][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.12-16.47.09:946][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.12-16.47.10:043][  0]LogHAL: Display: Platform has ~ 8 GB [8571604992 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.12-16.47.10:075][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.12-16.47.10:075][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.12-16.47.10:155][  0]LogInit: Computer: ANNIE
+[2018.11.12-16.47.10:155][  0]LogInit: User: Asher
+[2018.11.12-16.47.10:155][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.11.12-16.47.10:155][  0]LogInit: High frequency timer resolution =3.020479 MHz
+[2018.11.12-16.47.10:156][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.11.12-16.47.10:156][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.12-16.47.10:156][  0]LogMemory: Process Physical Memory: 101.80 MB used, 101.80 MB peak
+[2018.11.12-16.47.10:156][  0]LogMemory: Process Virtual Memory: 96.56 MB used, 96.56 MB peak
+[2018.11.12-16.47.10:156][  0]LogMemory: Physical Memory: 5957.12 MB used,  2217.40 MB free, 8174.52 MB total
+[2018.11.12-16.47.10:156][  0]LogMemory: Virtual Memory: 4633.45 MB used,  2217.40 MB free, 134217728.00 MB total
+[2018.11.12-16.47.12:852][  0]LogInit: Using OS detected language (en-US).
+[2018.11.12-16.47.12:852][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.12-16.47.13:268][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.12-16.47.14:740][  0]LogStreaming: Display: Took  1.887s to InitEngineTextLocalization.
+[2018.11.12-16.47.14:741][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.12-16.47.15:429][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.12-16.47.15:429][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.12-16.47.24:740][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.12-16.47.24:747][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.12-16.47.27:060][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.11.12-16.47.27:060][  0]LogD3D11RHI:       4043/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.12-16.47.27:063][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.12-16.47.27:063][  0]LogD3D11RHI:       0/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.12-16.47.27:063][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.12-16.47.27:074][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.12-16.47.27:092][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.12-16.47.27:092][  0]LogWindows: EnumDisplayDevices:
+[2018.11.12-16.47.27:092][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.11.12-16.47.27:092][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.11.12-16.47.27:093][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.11.12-16.47.27:093][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.11.12-16.47.27:093][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.12-16.47.27:093][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.11.12-16.47.27:093][  0]LogD3D11RHI:   Driver Version: 411.70 (internal:24.21.14.1170, unified:411.70)
+[2018.11.12-16.47.27:093][  0]LogD3D11RHI:      Driver Date: 9-25-2018
+[2018.11.12-16.47.27:093][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2018.11.12-16.47.27:160][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.12-16.47.27:268][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.12-16.47.27:366][  0]LogShaderCompilers: Guid format shader working directory is -37 characters bigger than the processId version (../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Intermediate/Shaders/WorkingDirectory/8728/).
+[2018.11.12-16.47.27:382][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Asher/AppData/Local/Temp/UnrealShaderWorkingDir/402FD60D49B356976E9A7983679F61EF/'.
+[2018.11.12-16.47.30:185][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.12-16.47.30:222][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.12-16.47.30:253][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.12-16.47.30:294][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.12-16.47.30:411][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.12-16.47.30:501][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.12-16.47.30:567][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.12-16.47.30:621][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.12-16.47.30:678][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:826][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-16.47.30:886][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.12-16.47.31:028][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.12-16.47.31:028][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.12-16.47.31:074][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.12-16.47.31:074][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.12-16.47.31:113][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.12-16.47.31:145][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.12-16.47.31:164][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.12-16.47.31:237][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.12-16.47.31:274][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.12-16.47.31:274][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.12-16.47.32:512][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.12-16.47.32:512][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.12-16.47.32:512][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.12-16.47.40:381][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.12-16.47.41:321][  0]LogDerivedDataCache: Loaded boot cache 0.92s 72MB C:/Users/Asher/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.12-16.47.41:321][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Asher/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.12-16.47.41:321][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.12-16.47.41:321][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.12-16.47.41:321][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.12-16.47.41:321][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.12-16.47.41:466][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.12-16.47.41:521][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Asher/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.12-16.47.41:521][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.12-16.47.41:521][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.12-16.47.41:588][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.12-16.47.41:590][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.12-16.47.41:716][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.12-16.47.44:263][  0]LogAssetRegistry: FAssetRegistry took 0.0305 seconds to start up
+[2018.11.12-16.47.47:661][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.12-16.47.53:031][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.12-16.47.54:013][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.12-16.47.54:037][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.12-16.47.54:067][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.12-16.47.54:067][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.12-16.47.55:258][  0]LogNetVersion: GAME310_RamboBambi 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 251346224)
+[2018.11.12-16.48.08:715][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.294078 seconds
+[2018.11.12-16.48.08:724][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.12-16.48.08:724][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.12-16.48.08:724][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.12-16.48.52:859][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.12-16.48.52:882][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.12-16.48.54:847][  0]SourceControl: Source control is disabled
+[2018.11.12-16.48.54:848][  0]SourceControl: Source control is disabled
+[2018.11.12-16.48.54:904][  0]SourceControl: Source control is disabled
+[2018.11.12-16.48.54:915][  0]SourceControl: Source control is disabled
+[2018.11.12-16.48.57:340][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.12-16.48.57:938][  0]LogOcInput: OculusInput pre-init called
+[2018.11.12-16.48.58:736][  0]LogEngine: Initializing Engine...
+[2018.11.12-16.48.58:832][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.12-16.48.58:910][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.12-16.48.58:910][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.12-16.48.58:910][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.12-16.48.58:910][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.12-16.49.01:027][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.12-16.49.01:715][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.12-16.49.02:335][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-16.49.02:399][  0]LogInit: FAudioDevice initialized.
+[2018.11.12-16.49.02:400][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.12-16.49.03:280][  0]LogDerivedDataCache: Saved boot cache 0.88s 72MB C:/Users/Asher/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.12-16.49.03:298][  0]LogInit: Texture streaming: Enabled
+[2018.11.12-16.49.04:591][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.12-16.49.05:170][  0]LogInit: Transaction tracking system initialized
+[2018.11.12-16.49.06:058][  0]BlueprintLog: New page: Editor Load
+[2018.11.12-16.49.08:296][  0]LocalizationService: Localization service is disabled
+[2018.11.12-16.49.11:719][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.12-16.49.11:719][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.12-16.49.11:719][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.12-16.49.11:719][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.12-16.49.11:719][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.12-16.49.11:720][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.12-16.49.11:720][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.12-16.49.12:853][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/' took 0.04s
+[2018.11.12-16.49.25:116][  0]SourceControl: Source control is disabled
+[2018.11.12-16.49.25:116][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.12-16.49.25:117][  0]LightingResults: New page: Lighting Build
+[2018.11.12-16.49.25:264][  0]MapCheck: New page: Map Check
+[2018.11.12-16.49.25:264][  0]LightingResults: New page: Lighting Build
+[2018.11.12-16.49.32:970][  0]LogAIModule: Creating AISystem for world Level1
+[2018.11.12-16.49.33:983][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.12-16.49.34:137][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.12-16.49.34:262][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 124.663ms to complete.
+[2018.11.12-16.49.34:262][  0]LogFileHelpers: Loading map 'Level1' took 9.146
+[2018.11.12-16.49.35:031][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-16.49.35:044][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-16.49.35:054][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-16.49.35:065][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-16.49.35:179][  0]LogCollectionManager: Loaded 0 collections in 0.003150 seconds
+[2018.11.12-16.49.35:304][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Collections/' took 0.01s
+[2018.11.12-16.49.35:304][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Developers/Asher/Collections/' took 0.01s
+[2018.11.12-16.49.35:304][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Collections/' took 0.01s
+[2018.11.12-16.49.35:304][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.12-16.49.35:319][  0]LogContentBrowser: Native class hierarchy populated in 0.0145 seconds. Added 2572 classes and 603 folders.
+[2018.11.12-16.49.35:392][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.12-16.49.37:413][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.12-16.49.37:446][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.12-16.49.37:775][  0]LogSlate: Took 0.021319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.12-16.49.37:820][  0]LogSlate: Took 0.042075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.12-16.49.37:849][  0]LogSlate: Took 0.020729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.12-16.49.38:577][  0]LogRenderer: Reallocating scene render targets to support 908x576 Format 10 NumSamples 1 (Frame:1).
+[2018.11.12-16.49.39:116][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.11.12-16.49.39:116][  0]LogLoad: (Engine Initialization) Total time: 330.59 seconds
+[2018.11.12-16.49.39:116][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.12-16.49.39:254][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.12-16.49.39:419][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/' took 0.24s
+[2018.11.12-16.49.39:752][  4]LogAssetRegistry: Asset discovery search completed in 115.5112 seconds
+[2018.11.12-16.49.39:755][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.12-16.49.39:755][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2018.11.12-16.49.43:843][ 16]LogSlate: Took 0.028343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.12-16.50.05:223][179]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.11.12-16.50.10:528][593]LogSlate: Took 0.038330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.12-16.51.20:705][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-16.51.26:198][207]LogEditor: Attempting to add actor of class 'CableActor' to level at -180.00,-1790.00,1380.00
+[2018.11.12-16.51.26:979][244]LogEditor: Attempting to add actor of class 'CableActor' to level at -210.00,-2220.00,1380.00
+[2018.11.12-16.51.42:374][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-16.52.12:353][428]Cmd: TRANSACTION UNDO
+[2018.11.12-16.52.12:353][428]LogEditorTransaction: Undo Edit Cable Length
+[2018.11.12-16.52.12:366][428]LogSlate: Took 0.000378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.12-16.52.14:241][593]Cmd: TRANSACTION REDO
+[2018.11.12-16.52.14:241][593]LogEditorTransaction: Redo Edit Cable Length
+[2018.11.12-16.52.44:597][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-16.53.00:063][936]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.12-16.53.00:128][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-16.53.00:141][936]PIE: New page: PIE session: Level1 (Nov 12, 2018, 6:53:00 AM)
+[2018.11.12-16.53.00:154][936]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.11.12-16.53.00:221][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066885s)
+[2018.11.12-16.53.00:222][936]LogAIModule: Creating AISystem for world Level1
+[2018.11.12-16.53.00:222][936]LogPlayLevel: PIE: World Init took: (0.001694s)
+[2018.11.12-16.53.00:223][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.068961s)
+[2018.11.12-16.53.00:309][936]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-16.53.00:324][936]LogInit: FAudioDevice initialized.
+[2018.11.12-16.53.00:394][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-16.53.05:366][936]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.12-16.53.05:394][936]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.11.12-11.53.05
+[2018.11.12-16.53.05:434][936]LogWorld: Bringing up level for play took: 0.042946
+[2018.11.12-16.53.05:663][936]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.11.12-16.53.05:696][936]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.11.12-16.53.06:136][936]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 6.612
+[2018.11.12-16.53.06:293][936]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.11.12-16.53.19:271][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-16.53.19:312][253]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.12-16.53.19:345][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-16.53.19:429][254]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.11.12-16.53.21:157][452]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-16.53.22:915][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-16.53.32:622][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-16.53.46:133][771]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-16.53.50:042][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-16.53.57:695][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-16.53.57:946][ 46]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level17FB960F74EF2957C0F143E81324D851F.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Level1.umap'
+[2018.11.12-16.53.58:316][ 46]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1_BuiltDataC511B3F74984E56BFA6EF4B157511003.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Level1_BuiltData.uasset'
+[2018.11.12-16.53.58:690][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-16.53.58:819][ 97]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.12-16.53.58:865][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-16.53.58:866][ 97]PIE: New page: PIE session: Level1 (Nov 12, 2018, 6:53:58 AM)
+[2018.11.12-16.53.58:866][ 97]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.11.12-16.53.58:875][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008811s)
+[2018.11.12-16.53.58:876][ 97]LogAIModule: Creating AISystem for world Level1
+[2018.11.12-16.53.58:877][ 97]LogPlayLevel: PIE: World Init took: (0.001665s)
+[2018.11.12-16.53.58:877][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.010857s)
+[2018.11.12-16.53.58:930][ 97]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-16.53.58:949][ 97]LogInit: FAudioDevice initialized.
+[2018.11.12-16.53.58:960][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-16.53.59:010][ 97]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.12-16.53.59:014][ 97]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.11.12-11.53.59
+[2018.11.12-16.53.59:015][ 97]LogWorld: Bringing up level for play took: 0.003458
+[2018.11.12-16.53.59:028][ 97]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.11.12-16.53.59:041][ 97]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 -0.483
+[2018.11.12-16.54.14:029][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-16.54.14:071][452]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.12-16.54.14:120][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-16.54.14:183][453]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.11.12-16.54.16:370][694]LogEditorViewport: Clicking on Actor (LMB): CableActor (CableActor1)
+[2018.11.12-16.54.29:012][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-16.55.00:567][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-16.56.50:008][ 74]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.11.12-16.56.51:340][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-16.56.59:952][979]Cmd: TRANSACTION UNDO
+[2018.11.12-16.56.59:953][979]LogEditorTransaction: Undo Set Location
+[2018.11.12-16.57.01:627][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-16.57.11:943][ 28]Cmd: TRANSACTION UNDO
+[2018.11.12-16.57.11:943][ 28]LogEditorTransaction: Undo Set Location
+[2018.11.12-16.57.24:561][ 91]LogEditorViewport: Clicking on Actor (LMB): CableActor (CableActor1)
+[2018.11.12-16.57.26:131][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-16.58.28:844][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-16.58.38:908][851]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Grappling.Grappling
+[2018.11.12-16.58.40:588][851]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.11.12-16.58.42:529][851]LogSlate: Took 0.017561 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.12-16.59.34:922][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-16.59.35:031][142]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.12-16.59.35:088][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-16.59.35:088][142]PIE: New page: PIE session: Level1 (Nov 12, 2018, 6:59:35 AM)
+[2018.11.12-16.59.35:088][142]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.11.12-16.59.35:098][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009870s)
+[2018.11.12-16.59.35:099][142]LogAIModule: Creating AISystem for world Level1
+[2018.11.12-16.59.35:100][142]LogPlayLevel: PIE: World Init took: (0.001636s)
+[2018.11.12-16.59.35:100][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.011718s)
+[2018.11.12-16.59.35:159][142]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-16.59.35:173][142]LogInit: FAudioDevice initialized.
+[2018.11.12-16.59.35:186][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-16.59.35:234][142]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.12-16.59.35:237][142]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.11.12-11.59.35
+[2018.11.12-16.59.35:238][142]LogWorld: Bringing up level for play took: 0.003033
+[2018.11.12-16.59.35:251][142]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.11.12-16.59.35:263][142]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 -0.26
+[2018.11.12-16.59.42:546][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-16.59.42:598][626]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.12-16.59.42:641][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-16.59.42:734][627]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.11.12-16.59.44:545][769]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-16.59.52:548][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.00.45:110][726]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.11.12-17.00.49:728][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.01.09:777][362]Cmd: TRANSACTION UNDO
+[2018.11.12-17.01.09:778][362]LogEditorTransaction: Undo Move Actors
+[2018.11.12-17.01.18:707][932]LogEditorViewport: Clicking on Actor (LMB): CableActor (CableActor1)
+[2018.11.12-17.01.24:544][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.01.31:332][770]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.11.12-17.02.07:602][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.02.07:717][807]MapCheck: New page: Map Check
+[2018.11.12-17.02.07:744][807]Cmd: MAP REBUILD ALLVISIBLE
+[2018.11.12-17.02.07:744][807]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.11.12-17.02.08:119][807]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.11.12-17.02.08:336][807]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-17.02.08:336][807]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.11.12-17.02.08:346][807]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ChainLink, compiling. 
+[2018.11.12-17.02.12:536][807]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.12-17.02.12:536][807]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-17.02.12:536][807]TextureStreamingBuild: Display: Compiling optional shaders took 4.459 seconds.
+[2018.11.12-17.02.12:650][807]LogLevel: Display: Export Material TexCoord Scales took 0.115 seconds.
+[2018.11.12-17.02.12:707][807]TextureStreamingBuild: Display: Build Texture Streaming took 0.034 seconds.
+[2018.11.12-17.02.12:746][807]LightingResults: New page: Lighting Build - Nov 12, 2018, 7:02:12 AM
+[2018.11.12-17.02.13:060][807]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.12-17.02.13:310][807]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.12-17.02.13:384][807]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.12-17.02.15:079][807]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.12-17.02.15:079][807]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8728
+[2018.11.12-17.02.22:867][807]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.12-17.02.22:867][807]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.12-17.02.22:867][807]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.12-17.02.22:867][807]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.12-17.02.22:867][807]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.12-17.02.22:867][807]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.12-17.02.23:659][807]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.11.12-17.02.23:659][807]MapCheck: New page: Level1 - Nov 12, 2018, 7:02:23 AM
+[2018.11.12-17.02.23:682][807]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.11.12-17.02.23:881][807]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 221.615ms to complete.
+[2018.11.12-17.02.23:905][807]LogEditorBuildUtils: Build time 0:16
+[2018.11.12-17.02.29:636][943]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-17.02.29:646][943]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-17.02.32:693][ 71]LightingResults: Warning: SecondFloor-Boundary Object has overlapping UVs.
+[2018.11.12-17.02.32:693][ 71]LightingResults: SecondFloor-Boundary Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.02.33:352][ 98]LightingResults: Warning: Stairs Object has overlapping UVs.
+[2018.11.12-17.02.33:352][ 98]LightingResults: Stairs Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.02.35:829][203]LightingResults: Warning: RampWalls Object has overlapping UVs.
+[2018.11.12-17.02.35:829][203]LightingResults: RampWalls Lightmap UV are overlapping by 17.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.02.36:598][236]LightingResults: Warning: Exit Object has overlapping UVs.
+[2018.11.12-17.02.36:598][236]LightingResults: Exit Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.02.36:992][253]LightingResults: Warning: Entry Object has overlapping UVs.
+[2018.11.12-17.02.36:992][253]LightingResults: Entry Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.02.38:695][329]Job is a success!
+[2018.11.12-17.02.38:870][330]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.023s
+[2018.11.12-17.02.38:870][330]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.12-17.02.38:870][330]LogVolumetricLightmapImport:      BrickData 425x5x5 = 0.4Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2018.11.12-17.02.38:870][330]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.12-17.02.38:870][330]LogVolumetricLightmapImport:          0: 1.2% covering 100.0% of volume
+[2018.11.12-17.02.38:870][330]LogVolumetricLightmapImport:          1: 4.7% covering 6.3% of volume
+[2018.11.12-17.02.38:870][330]LogVolumetricLightmapImport:          2: 94.1% covering 2.0% of volume
+[2018.11.12-17.02.39:470][330]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2018.11.12-17.02.39:470][330]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2018.11.12-17.02.39:470][330]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.11.12-17.02.39:470][330]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.11.12-17.02.39:656][330]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X128)
+[2018.11.12-17.02.39:656][330]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.11.12-17.02.39:920][330]Lightmass on ANNIE: 11.0 sec total, 1.45 sec importing, 136 ms setup, 1.85 sec photons, 7.18 sec processing, 0 ms extra exporting [22/22 mappings]. Threads: 28.7 sec total, 11.9 sec processing.
+[2018.11.12-17.02.40:022][330]LogStaticLightingSystem: Illumination: 27.2 sec (574 ms encoding lightmaps, 177 ms encoding shadowmaps)
+[2018.11.12-17.02.40:022][330]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.11.12-17.02.40:022][330]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.11.12-17.02.40:922][330]DumpUnbuiltLightIteractions
+[2018.11.12-17.02.40:922][330]Lights with unbuilt interactions: 0
+[2018.11.12-17.02.40:922][330]
+[2018.11.12-17.02.40:922][330]Primitives with unbuilt interactions: 0
+[2018.11.12-17.02.41:060][331]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.12-17.02.41:060][331]MapCheck: New page: Level1 - Nov 12, 2018, 7:02:41 AM
+[2018.11.12-17.02.41:262][331]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 201.865ms to complete.
+[2018.11.12-17.02.42:670][404]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-17.02.42:680][404]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-17.02.44:412][503]LogEditorViewport: Clicking Background
+[2018.11.12-17.02.45:241][568]LogEditorViewport: Clicking on Actor (LMB): CableActor (CableActor1)
+[2018.11.12-17.02.53:965][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.03.28:780][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.03.52:262][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.03.52:360][  4]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.12-17.03.52:426][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-17.03.52:427][  4]PIE: New page: PIE session: Level1 (Nov 12, 2018, 7:03:52 AM)
+[2018.11.12-17.03.52:427][  4]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.11.12-17.03.52:436][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008683s)
+[2018.11.12-17.03.52:437][  4]LogAIModule: Creating AISystem for world Level1
+[2018.11.12-17.03.52:437][  4]LogPlayLevel: PIE: World Init took: (0.001694s)
+[2018.11.12-17.03.52:438][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.010667s)
+[2018.11.12-17.03.52:514][  4]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-17.03.52:534][  4]LogInit: FAudioDevice initialized.
+[2018.11.12-17.03.52:549][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-17.03.52:601][  4]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.12-17.03.52:604][  4]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.11.12-12.03.52
+[2018.11.12-17.03.52:605][  4]LogWorld: Bringing up level for play took: 0.002895
+[2018.11.12-17.03.52:619][  4]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.11.12-17.03.52:635][  4]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 1.11
+[2018.11.12-17.04.03:674][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-17.04.03:721][760]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.12-17.04.03:766][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-17.04.03:858][761]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.11.12-17.04.06:946][ 33]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-17.04.08:689][155]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-17.04.12:922][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.04.25:399][ 90]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Levels/Level1/Ceiling.Ceiling
+[2018.11.12-17.04.57:779][568]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1_Auto11FF6979D49C90913A7A4ECA7840159E4.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Level1_Auto1.umap'
+[2018.11.12-17.04.57:787][568]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1/Level1' took 0.717
+[2018.11.12-17.04.57:788][568]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.717
+[2018.11.12-17.04.57:791][568]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Level1/Level1_BuiltData] ([1] browsable assets)...
+[2018.11.12-17.04.57:791][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Level1/Level1_BuiltData]
+[2018.11.12-17.04.57:930][568]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1_BuiltData_Auto1C1FB51EA4B05D05AE3A09F9C93D3A153.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Level1_BuiltData_Auto1.uasset'
+[2018.11.12-17.04.57:951][568]LogFileHelpers: Auto-saving content packages took 0.162
+[2018.11.12-17.07.31:014][178]LogEditorViewport: Clicking on Actor (LMB): CableActor (CableActor1)
+[2018.11.12-17.07.34:301][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.08.11:692][519]Cmd: TRANSACTION UNDO
+[2018.11.12-17.08.11:692][519]LogEditorTransaction: Undo Replace component used material
+[2018.11.12-17.10.34:483][394]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.12-17.10.34:531][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-17.10.34:531][394]PIE: New page: PIE session: Level1 (Nov 12, 2018, 7:10:34 AM)
+[2018.11.12-17.10.34:532][394]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.11.12-17.10.34:539][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006981s)
+[2018.11.12-17.10.34:540][394]LogAIModule: Creating AISystem for world Level1
+[2018.11.12-17.10.34:540][394]LogPlayLevel: PIE: World Init took: (0.001686s)
+[2018.11.12-17.10.34:541][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.008952s)
+[2018.11.12-17.10.34:595][394]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-17.10.34:610][394]LogInit: FAudioDevice initialized.
+[2018.11.12-17.10.34:623][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-17.10.34:672][394]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.12-17.10.34:675][394]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.11.12-12.10.34
+[2018.11.12-17.10.34:676][394]LogWorld: Bringing up level for play took: 0.003060
+[2018.11.12-17.10.34:689][394]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.11.12-17.10.34:702][394]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 -0.823
+[2018.11.12-17.10.42:325][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-17.10.42:375][904]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.12-17.10.42:413][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-17.10.42:498][905]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.11.12-17.10.43:999][  8]LogEditorViewport: Clicking on Actor (LMB): CableActor (CableActor1)
+[2018.11.12-17.10.46:802][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.11.16:462][175]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-17.11.17:576][242]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-17.11.18:320][287]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-17.11.20:029][387]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-17.11.20:136][391]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Entry)
+[2018.11.12-17.11.20:415][401]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Entry)
+[2018.11.12-17.11.24:735][638]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.11.30:915][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.11.33:579][261]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.12-17.11.33:625][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-17.11.33:625][261]PIE: New page: PIE session: Level1 (Nov 12, 2018, 7:11:33 AM)
+[2018.11.12-17.11.33:626][261]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.11.12-17.11.33:632][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006019s)
+[2018.11.12-17.11.33:633][261]LogAIModule: Creating AISystem for world Level1
+[2018.11.12-17.11.33:633][261]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2018.11.12-17.11.33:633][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.007450s)
+[2018.11.12-17.11.33:688][261]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-17.11.33:701][261]LogInit: FAudioDevice initialized.
+[2018.11.12-17.11.33:707][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.11.33:713][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-17.11.33:763][261]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.12-17.11.33:767][261]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.11.12-12.11.33
+[2018.11.12-17.11.33:767][261]LogWorld: Bringing up level for play took: 0.003167
+[2018.11.12-17.11.33:781][261]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.11.12-17.11.33:793][261]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 0.269
+[2018.11.12-17.11.43:832][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-17.11.43:875][933]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.12-17.11.43:921][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-17.11.44:006][934]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.11.12-17.11.46:834][131]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-17.11.47:242][154]Cmd: TRANSACTION UNDO
+[2018.11.12-17.11.47:243][154]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.12-17.11.47:925][182]Cmd: TRANSACTION UNDO
+[2018.11.12-17.11.47:925][182]LogEditorTransaction: Undo Add Component
+[2018.11.12-17.11.54:400][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.11.59:321][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.11.59:444][774]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.12-17.11.59:489][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-17.11.59:489][774]PIE: New page: PIE session: Level1 (Nov 12, 2018, 7:11:59 AM)
+[2018.11.12-17.11.59:489][774]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.11.12-17.11.59:497][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007642s)
+[2018.11.12-17.11.59:498][774]LogAIModule: Creating AISystem for world Level1
+[2018.11.12-17.11.59:498][774]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2018.11.12-17.11.59:498][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.009320s)
+[2018.11.12-17.11.59:553][774]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-17.11.59:567][774]LogInit: FAudioDevice initialized.
+[2018.11.12-17.11.59:579][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-17.11.59:630][774]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.12-17.11.59:635][774]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.11.12-12.11.59
+[2018.11.12-17.11.59:818][774]LogWorld: Bringing up level for play took: 0.187659
+[2018.11.12-17.11.59:831][774]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.11.12-17.11.59:855][774]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 0.332
+[2018.11.12-17.12.09:683][384]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-62.96 Y=-6.27 Z=0.00 Location: X=449.47 Y=-3005.99 Z=288.65 Normal: X=-0.68 Y=-0.73 Z=-0.00 PenetrationDepth:2.885 Actor:EnemyBP_2 Component:CharacterMesh0 BoneName:hand_r (0 other events since notify)
+[2018.11.12-17.12.27:026][489]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=43.25 Y=0.67 Z=0.00 Location: X=-920.59 Y=-3005.87 Z=779.92 Normal: X=0.87 Y=-0.49 Z=0.00 PenetrationDepth:11.018 Actor:EnemyBP_2 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2018.11.12-17.12.42:303][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-17.12.42:346][495]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.12-17.12.42:441][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-17.12.42:519][496]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.11.12-17.12.43:625][571]LogEditorViewport: Clicking on Actor (LMB): EnemyBP_C (EnemyBP)
+[2018.11.12-17.12.46:575][716]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.16.02:484][485]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1_Auto252FB02154602F2D8AB355D81B01CB608.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Level1_Auto2.umap'
+[2018.11.12-17.16.02:500][485]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1/Level1' took 0.208
+[2018.11.12-17.16.02:500][485]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.208
+[2018.11.12-17.20.00:213][234]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Character_City_Rig, removing AnimBP from actor.
+[2018.11.12-17.20.15:391][958]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.12-17.20.15:445][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-17.20.15:445][958]PIE: New page: PIE session: Level1 (Nov 12, 2018, 7:20:15 AM)
+[2018.11.12-17.20.15:445][958]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2018.11.12-17.20.15:452][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007163s)
+[2018.11.12-17.20.15:454][958]LogAIModule: Creating AISystem for world Level1
+[2018.11.12-17.20.15:454][958]LogPlayLevel: PIE: World Init took: (0.001718s)
+[2018.11.12-17.20.15:454][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.009207s)
+[2018.11.12-17.20.15:516][958]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-17.20.15:533][958]LogInit: FAudioDevice initialized.
+[2018.11.12-17.20.15:545][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-17.20.15:601][958]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.12-17.20.15:607][958]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.11.12-12.20.15
+[2018.11.12-17.20.15:608][958]LogWorld: Bringing up level for play took: 0.005886
+[2018.11.12-17.20.15:621][958]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.11.12-17.20.15:635][958]PIE: Play in editor start time for /Game/Levels/Level1/UEDPIE_0_Level1 0.111
+[2018.11.12-17.20.48:578][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-17.20.48:620][ 32]LogSlate: Window 'GAME310_RamboBambi Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.12-17.20.48:664][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-17.20.48:758][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.11.12-17.20.50:671][166]Cmd: TRANSACTION UNDO
+[2018.11.12-17.20.50:671][166]LogEditorTransaction: Undo Edit Anim Class
+[2018.11.12-17.20.51:244][187]Cmd: TRANSACTION UNDO
+[2018.11.12-17.20.51:244][187]LogEditorTransaction: Undo Edit Anim Class
+[2018.11.12-17.20.52:262][249]Cmd: TRANSACTION UNDO
+[2018.11.12-17.20.52:262][249]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2018.11.12-17.20.57:583][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.20.57:759][622]LogRenderer: Reallocating scene render targets to support 1292x868 Format 10 NumSamples 1 (Frame:14877).
+[2018.11.12-17.21.12:884][545]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.21.21:398][119]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Water, compiling. 
+[2018.11.12-17.21.21:753][119]LogShaderCompilers: Display: Shaders left to compile 193
+[2018.11.12-17.21.21:753][119]LogShaderCompilers: Display: Shaders left to compile 183
+[2018.11.12-17.21.21:753][119]LogShaderCompilers: Display: Shaders left to compile 173
+[2018.11.12-17.21.35:721][759]LogShaderCompilers: Display: Shaders left to compile 163
+[2018.11.12-17.22.26:186][772]LogShaderCompilers: Display: Shaders left to compile 153
+[2018.11.12-17.22.33:186][875]LogShaderCompilers: Display: Shaders left to compile 143
+[2018.11.12-17.22.46:644][ 10]LogShaderCompilers: Display: Shaders left to compile 133
+[2018.11.12-17.23.09:388][324]LogShaderCompilers: Display: Shaders left to compile 123
+[2018.11.12-17.23.37:412][688]LogShaderCompilers: Display: Shaders left to compile 113
+[2018.11.12-17.23.42:540][769]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.11.12-17.23.43:701][789]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.11.12-17.23.53:120][942]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.11.12-17.24.10:872][237]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.11.12-17.24.46:036][771]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.11.12-17.24.52:226][786]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.11.12-17.24.53:368][807]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.12-17.24.57:607][879]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.12-17.25.20:466][156]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.12-17.25.30:907][535]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-17.25.33:596][643]LogEditorViewport: Clicking on Actor (LMB): CableActor (CableActor1)
+[2018.11.12-17.25.43:471][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.26.12:997][913]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.12-17.26.22:463][ 20]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.12-17.27.14:424][929]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1_Auto3E5CD3A5148029F1C4F372AB55E171E22.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Level1_Auto3.umap'
+[2018.11.12-17.27.14:439][929]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1/Level1' took 0.336
+[2018.11.12-17.27.14:440][929]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.336
+[2018.11.12-17.27.14:443][929]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/Level1/Ceiling] ([1] browsable assets)...
+[2018.11.12-17.27.14:501][929]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/Level1/Ceiling.Ceiling]
+[2018.11.12-17.27.14:501][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Level1/Ceiling]
+[2018.11.12-17.27.14:774][929]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Ceiling_Auto3417F7BE44892ADAB349CB79F3F6CDA77.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Ceiling_Auto3.uasset'
+[2018.11.12-17.27.14:777][929]LogFileHelpers: Auto-saving content packages took 0.336
+[2018.11.12-17.28.00:499][355]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-17.28.01:906][432]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-17.28.03:946][541]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.28.23:468][701]LogTexture: Display: Building textures: T_PolygonCity_BillboardAds (AutoDXT, 2048X2048)
+[2018.11.12-17.28.23:468][701]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Billboard, compiling. 
+[2018.11.12-17.28.23:738][701]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.12-17.28.23:738][701]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.12-17.28.23:738][701]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.12-17.28.31:343][991]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_FX_Steam, compiling. 
+[2018.11.12-17.28.31:423][991]LogMaterial: Warning: Material /Game/PolygonCity/Materials/Mat_PolygonCity_FX_Steam.Mat_PolygonCity_FX_Steam needed to have new flag set bUsedWithStaticLighting !
+[2018.11.12-17.28.31:439][991]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_FX_Steam, compiling. 
+[2018.11.12-17.28.36:318][160]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_FX_Rain, compiling. 
+[2018.11.12-17.28.36:363][160]LogMaterial: Warning: Material /Game/PolygonCity/Materials/Mat_PolygonCity_FX_Rain.Mat_PolygonCity_FX_Rain needed to have new flag set bUsedWithStaticLighting !
+[2018.11.12-17.28.36:382][160]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_FX_Rain, compiling. 
+[2018.11.12-17.28.54:418][892]LogMaterial: Display: Missing cached shader map for material Mat_Overview_Ground, compiling. 
+[2018.11.12-17.29.01:369][149]LogShaderCompilers: Display: Shaders left to compile 172
+[2018.11.12-17.29.01:593][158]LogShaderCompilers: Display: Shaders left to compile 162
+[2018.11.12-17.29.06:728][371]LogShaderCompilers: Display: Shaders left to compile 152
+[2018.11.12-17.29.22:336][869]LogShaderCompilers: Display: Shaders left to compile 142
+[2018.11.12-17.29.22:668][873]LogShaderCompilers: Display: Shaders left to compile 132
+[2018.11.12-17.29.22:844][876]LogShaderCompilers: Display: Shaders left to compile 122
+[2018.11.12-17.29.29:084][966]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.11.12-17.29.30:923][992]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.11.12-17.29.31:340][998]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.11.12-17.29.35:513][ 60]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.11.12-17.29.38:462][105]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.11.12-17.29.38:828][110]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.11.12-17.29.42:078][152]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.12-17.29.45:982][210]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.12-17.29.48:095][241]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.12-17.29.51:528][278]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.12-17.29.53:677][301]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.12-17.29.53:749][302]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.12-17.30.40:639][712]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.33.44:318][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.33.51:010][673]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.33.57:590][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.33.59:790][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.34.07:026][495]LogTexture: Display: Building textures: T_PolygonCity_Texture_Skyline (AutoDXT, 1024X1024)
+[2018.11.12-17.34.07:026][495]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Skyline, compiling. 
+[2018.11.12-17.34.07:107][495]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.12-17.34.07:107][495]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.12-17.34.07:107][495]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.12-17.34.18:342][905]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.12-17.34.18:410][906]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.12-17.34.19:208][918]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.12-17.37.17:955][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.37.18:060][ 65]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1/Level1' took 0.081
+[2018.11.12-17.37.18:062][ 65]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/Level1/Ceiling] ([1] browsable assets)...
+[2018.11.12-17.37.18:086][ 65]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/Level1/Ceiling.Ceiling]
+[2018.11.12-17.37.18:086][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Level1/Ceiling]
+[2018.11.12-17.37.18:177][ 65]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Ceiling_Auto41D6D2EC14FE53D71F063D4ABE3B56535.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Ceiling_Auto4.uasset'
+[2018.11.12-17.37.18:181][ 65]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonCity/Materials/Mat_PolygonCity_FX_Steam] ([1] browsable assets)...
+[2018.11.12-17.37.18:200][ 65]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PolygonCity/Materials/Mat_PolygonCity_FX_Steam.Mat_PolygonCity_FX_Steam]
+[2018.11.12-17.37.18:200][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonCity/Materials/Mat_PolygonCity_FX_Steam]
+[2018.11.12-17.37.18:306][ 65]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Mat_PolygonCity_FX_Steam_Auto4E29E41F2454672F9AD7B99BE8123B4D1.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/PolygonCity/Materials/Mat_PolygonCity_FX_Steam_Auto4.uasset'
+[2018.11.12-17.37.18:309][ 65]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonCity/Materials/Mat_PolygonCity_FX_Rain] ([1] browsable assets)...
+[2018.11.12-17.37.18:327][ 65]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PolygonCity/Materials/Mat_PolygonCity_FX_Rain.Mat_PolygonCity_FX_Rain]
+[2018.11.12-17.37.18:327][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonCity/Materials/Mat_PolygonCity_FX_Rain]
+[2018.11.12-17.37.18:411][ 65]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Mat_PolygonCity_FX_Rain_Auto4EF6E1E8843527DE80D90D08282B60EB5.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/PolygonCity/Materials/Mat_PolygonCity_FX_Rain_Auto4.uasset'
+[2018.11.12-17.37.18:414][ 65]LogFileHelpers: Auto-saving content packages took 0.353
+[2018.11.12-17.37.30:854][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.37.51:940][918]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.38.11:217][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.38.30:729][127]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.12-17.38.32:499][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.38.34:784][342]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.12-17.38.35:779][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.38.39:500][598]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.12-17.39.16:794][693]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.12-17.39.20:964][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.39.26:705][224]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.12-17.39.47:553][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.40.05:395][396]Cmd: TRANSACTION UNDO
+[2018.11.12-17.40.05:395][396]LogEditorTransaction: Undo Edit Sun Height
+[2018.11.12-17.40.05:618][397]Cmd: TRANSACTION UNDO
+[2018.11.12-17.40.05:618][397]LogEditorTransaction: Undo Edit Sun Height
+[2018.11.12-17.40.05:849][398]Cmd: TRANSACTION UNDO
+[2018.11.12-17.40.05:849][398]LogEditorTransaction: Undo Edit Sun Height
+[2018.11.12-17.40.06:090][399]Cmd: TRANSACTION UNDO
+[2018.11.12-17.40.06:090][399]LogEditorTransaction: Undo Edit A
+[2018.11.12-17.40.06:323][400]Cmd: TRANSACTION UNDO
+[2018.11.12-17.40.06:323][400]LogEditorTransaction: Undo Edit A
+[2018.11.12-17.40.06:547][401]Cmd: TRANSACTION UNDO
+[2018.11.12-17.40.06:547][401]LogEditorTransaction: Undo Edit B
+[2018.11.12-17.40.06:771][402]Cmd: TRANSACTION UNDO
+[2018.11.12-17.40.06:771][402]LogEditorTransaction: Undo Edit G
+[2018.11.12-17.40.06:982][403]Cmd: TRANSACTION UNDO
+[2018.11.12-17.40.06:982][403]LogEditorTransaction: Undo Edit R
+[2018.11.12-17.40.07:214][404]Cmd: TRANSACTION UNDO
+[2018.11.12-17.40.07:214][404]LogEditorTransaction: Undo Edit Cloud Color
+[2018.11.12-17.40.07:447][405]Cmd: TRANSACTION UNDO
+[2018.11.12-17.40.07:447][405]LogEditorTransaction: Undo Edit Horizon Color
+[2018.11.12-17.40.07:606][405]Cmd: TRANSACTION UNDO
+[2018.11.12-17.40.07:607][405]LogEditorTransaction: Undo Edit Horizon Color
+[2018.11.12-17.40.07:769][405]Cmd: TRANSACTION UNDO
+[2018.11.12-17.40.07:769][405]LogEditorTransaction: Undo Edit Horizon Color
+[2018.11.12-17.40.08:005][406]Cmd: TRANSACTION UNDO
+[2018.11.12-17.40.08:005][406]LogEditorTransaction: Undo Edit Horizon Color
+[2018.11.12-17.40.08:234][407]Cmd: TRANSACTION UNDO
+[2018.11.12-17.40.08:234][407]LogEditorTransaction: Undo Edit Zenith Color
+[2018.11.12-17.40.08:844][423]Cmd: TRANSACTION UNDO
+[2018.11.12-17.40.08:844][423]LogEditorTransaction: Undo Edit Zenith Color
+[2018.11.12-17.40.09:158][425]Cmd: TRANSACTION UNDO
+[2018.11.12-17.40.09:159][425]LogEditorTransaction: Undo Edit Zenith Color
+[2018.11.12-17.40.09:698][439]Cmd: TRANSACTION UNDO
+[2018.11.12-17.40.09:698][439]LogEditorTransaction: Undo Edit Zenith Color
+[2018.11.12-17.40.12:112][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.41.14:262][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.41.20:781][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1/Ceiling" FILE="../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Ceiling.uasset" SILENT=true
+[2018.11.12-17.41.20:882][407]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Ceiling294E410140CAA7A382D7A3BD248B5A34.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Ceiling.uasset'
+[2018.11.12-17.41.31:024][906]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.12-17.41.33:227][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.42.40:307][805]Cmd: TRANSACTION UNDO
+[2018.11.12-17.42.40:307][805]LogEditorTransaction: Undo Set Rotation
+[2018.11.12-17.42.52:291][472]Cmd: TRANSACTION UNDO
+[2018.11.12-17.42.52:291][472]LogEditorTransaction: Undo Set Location
+[2018.11.12-17.42.54:064][540]Cmd: TRANSACTION UNDO
+[2018.11.12-17.42.54:064][540]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.12-17.43.06:946][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.43.43:800][199]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.12-17.44.23:404][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.44.39:887][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.44.44:900][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.44.59:908][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.45.25:405][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.45.25:552][301]MapCheck: New page: Map Check
+[2018.11.12-17.45.25:570][301]Cmd: MAP REBUILD ALLVISIBLE
+[2018.11.12-17.45.25:573][301]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.11.12-17.45.25:735][301]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.11.12-17.45.25:744][301]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.11.12-17.45.25:766][301]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.12-17.45.25:766][301]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-17.45.25:766][301]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ChainLink, compiling. 
+[2018.11.12-17.45.25:855][301]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_GrapplePoint, compiling. 
+[2018.11.12-17.45.25:951][301]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.12-17.45.25:951][301]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.11.12-17.45.25:968][301]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.11.12-17.45.27:515][301]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.12-17.45.27:515][301]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.12-17.45.27:515][301]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-17.45.27:515][301]TextureStreamingBuild: Display: Compiling optional shaders took 1.784 seconds.
+[2018.11.12-17.45.27:542][301]LogLevel: Display: Export Material TexCoord Scales took 0.027 seconds.
+[2018.11.12-17.45.27:567][301]TextureStreamingBuild: Display: Build Texture Streaming took 0.024 seconds.
+[2018.11.12-17.45.27:608][301]LightingResults: New page: Lighting Build - Nov 12, 2018, 7:45:27 AM
+[2018.11.12-17.45.27:636][301]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.12-17.45.27:641][301]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.12-17.45.27:642][301]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.12-17.45.27:643][301]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.12-17.45.27:643][301]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8728
+[2018.11.12-17.45.32:485][301]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.12-17.45.32:485][301]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.12-17.45.32:485][301]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.12-17.45.32:485][301]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.12-17.45.32:485][301]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.12-17.45.32:486][301]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.12-17.45.32:837][301]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.11.12-17.45.32:837][301]MapCheck: New page: Level1 - Nov 12, 2018, 7:45:32 AM
+[2018.11.12-17.45.32:838][301]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.11.12-17.45.33:177][301]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 339.451ms to complete.
+[2018.11.12-17.45.33:201][301]LogEditorBuildUtils: Build time 0:07
+[2018.11.12-17.45.37:066][366]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-17.45.37:075][366]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-17.45.44:142][622]LightingResults: Warning: SecondFloor-Boundary Object has overlapping UVs.
+[2018.11.12-17.45.44:175][623]LightingResults: SecondFloor-Boundary Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.45.44:647][638]LightingResults: Warning: Stairs Object has overlapping UVs.
+[2018.11.12-17.45.44:647][638]LightingResults: Stairs Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.45.47:345][728]LightingResults: Warning: RampWalls Object has overlapping UVs.
+[2018.11.12-17.45.47:378][729]LightingResults: RampWalls Lightmap UV are overlapping by 17.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.45.48:093][752]LightingResults: Warning: Exit Object has overlapping UVs.
+[2018.11.12-17.45.48:093][752]LightingResults: Exit Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.45.48:249][757]LightingResults: Warning: Entry Object has overlapping UVs.
+[2018.11.12-17.45.48:250][757]LightingResults: Entry Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.45.49:736][806]Job is a success!
+[2018.11.12-17.45.50:194][807]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2018.11.12-17.45.50:194][807]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.12-17.45.50:194][807]LogVolumetricLightmapImport:      BrickData 425x5x5 = 0.4Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2018.11.12-17.45.50:194][807]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.12-17.45.50:194][807]LogVolumetricLightmapImport:          0: 1.2% covering 100.0% of volume
+[2018.11.12-17.45.50:194][807]LogVolumetricLightmapImport:          1: 4.7% covering 6.3% of volume
+[2018.11.12-17.45.50:194][807]LogVolumetricLightmapImport:          2: 94.1% covering 2.0% of volume
+[2018.11.12-17.45.50:755][807]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2018.11.12-17.45.50:755][807]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2018.11.12-17.45.50:755][807]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.11.12-17.45.50:755][807]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.11.12-17.45.51:260][807]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.11.12-17.45.51:260][807]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X128)
+[2018.11.12-17.45.51:341][807]Lightmass on ANNIE: 14.5 sec total, 1.24 sec importing, 42 ms setup, 1.67 sec photons, 7.24 sec processing, 0 ms extra exporting [22/22 mappings]. Threads: 28.9 sec total, 11.5 sec processing.
+[2018.11.12-17.45.51:352][807]LogStaticLightingSystem: Illumination: 23.7 sec (519 ms encoding lightmaps, 504 ms encoding shadowmaps)
+[2018.11.12-17.45.51:352][807]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.11.12-17.45.51:352][807]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.11.12-17.45.51:501][807]DumpUnbuiltLightIteractions
+[2018.11.12-17.45.51:501][807]Lights with unbuilt interactions: 0
+[2018.11.12-17.45.51:501][807]
+[2018.11.12-17.45.51:501][807]Primitives with unbuilt interactions: 0
+[2018.11.12-17.45.51:663][808]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.12-17.45.51:663][808]MapCheck: New page: Level1 - Nov 12, 2018, 7:45:51 AM
+[2018.11.12-17.45.51:898][808]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 234.456ms to complete.
+[2018.11.12-17.45.53:175][866]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-17.45.53:184][866]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-17.46.07:521][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.46.19:701][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.46.26:383][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.46.26:498][656]MapCheck: New page: Map Check
+[2018.11.12-17.46.26:515][656]Cmd: MAP REBUILD ALLVISIBLE
+[2018.11.12-17.46.26:515][656]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.11.12-17.46.26:703][656]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.11.12-17.46.26:714][656]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-17.46.26:714][656]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.11.12-17.46.26:724][656]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ChainLink, compiling. 
+[2018.11.12-17.46.26:733][656]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_GrapplePoint, compiling. 
+[2018.11.12-17.46.26:742][656]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.11.12-17.46.26:754][656]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.11.12-17.46.28:589][656]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.12-17.46.28:589][656]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.12-17.46.28:589][656]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.12-17.46.28:589][656]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.12-17.46.28:589][656]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-17.46.28:589][656]TextureStreamingBuild: Display: Compiling optional shaders took 1.889 seconds.
+[2018.11.12-17.46.28:603][656]LogLevel: Display: Export Material TexCoord Scales took 0.014 seconds.
+[2018.11.12-17.46.28:633][656]TextureStreamingBuild: Display: Build Texture Streaming took 0.029 seconds.
+[2018.11.12-17.46.28:673][656]LightingResults: New page: Lighting Build - Nov 12, 2018, 7:46:28 AM
+[2018.11.12-17.46.28:688][656]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.12-17.46.28:694][656]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.12-17.46.28:694][656]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.12-17.46.28:695][656]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.12-17.46.28:695][656]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8728
+[2018.11.12-17.46.33:214][656]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.12-17.46.33:214][656]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.12-17.46.33:214][656]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.12-17.46.33:214][656]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.12-17.46.33:214][656]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.12-17.46.33:214][656]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.12-17.46.33:373][656]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.11.12-17.46.33:373][656]MapCheck: New page: Level1 - Nov 12, 2018, 7:46:33 AM
+[2018.11.12-17.46.33:373][656]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.11.12-17.46.33:558][656]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 184.519ms to complete.
+[2018.11.12-17.46.33:581][656]LogEditorBuildUtils: Build time 0:07
+[2018.11.12-17.46.37:286][668]LightingResults: Warning: SecondFloor-Boundary Object has overlapping UVs.
+[2018.11.12-17.46.37:287][668]LightingResults: SecondFloor-Boundary Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.46.37:619][669]LightingResults: Warning: Stairs Object has overlapping UVs.
+[2018.11.12-17.46.37:619][669]LightingResults: Stairs Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.46.38:956][673]LightingResults: Warning: Exit Object has overlapping UVs.
+[2018.11.12-17.46.38:956][673]LightingResults: Exit Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.46.39:302][674]LightingResults: Warning: RampWalls Object has overlapping UVs.
+[2018.11.12-17.46.39:302][674]LightingResults: RampWalls Lightmap UV are overlapping by 17.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.46.39:627][675]LightingResults: Warning: Entry Object has overlapping UVs.
+[2018.11.12-17.46.39:627][675]LightingResults: Entry Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.46.40:966][679]Job is a success!
+[2018.11.12-17.46.41:370][680]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2018.11.12-17.46.41:370][680]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.12-17.46.41:370][680]LogVolumetricLightmapImport:      BrickData 305x5x5 = 0.3Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2018.11.12-17.46.41:370][680]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.12-17.46.41:370][680]LogVolumetricLightmapImport:          0: 1.6% covering 100.0% of volume
+[2018.11.12-17.46.41:370][680]LogVolumetricLightmapImport:          1: 6.6% covering 6.3% of volume
+[2018.11.12-17.46.41:370][680]LogVolumetricLightmapImport:          2: 91.8% covering 1.4% of volume
+[2018.11.12-17.46.41:917][680]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2018.11.12-17.46.41:917][680]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2018.11.12-17.46.41:917][680]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.11.12-17.46.41:917][680]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.11.12-17.46.42:026][680]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.11.12-17.46.42:026][680]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X128)
+[2018.11.12-17.46.42:094][680]Lightmass on ANNIE: 6.58 sec total, 281 ms importing, 52 ms setup, 1.19 sec photons, 5.00 sec processing, 0 ms extra exporting [22/22 mappings]. Threads: 19.9 sec total, 8.33 sec processing.
+[2018.11.12-17.46.42:100][680]LogStaticLightingSystem: Illumination: 13.0 sec (511 ms encoding lightmaps, 101 ms encoding shadowmaps)
+[2018.11.12-17.46.42:100][680]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.11.12-17.46.42:100][680]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.11.12-17.46.42:225][680]DumpUnbuiltLightIteractions
+[2018.11.12-17.46.42:225][680]Lights with unbuilt interactions: 0
+[2018.11.12-17.46.42:225][680]
+[2018.11.12-17.46.42:225][680]Primitives with unbuilt interactions: 0
+[2018.11.12-17.46.42:317][681]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.12-17.46.42:317][681]MapCheck: New page: Level1 - Nov 12, 2018, 7:46:42 AM
+[2018.11.12-17.46.42:484][681]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 168.121ms to complete.
+[2018.11.12-17.47.00:061][838]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-17.47.00:069][838]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-17.47.12:959][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.47.34:863][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.48.02:728][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.48.20:659][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.48.26:198][612]Cmd: TRANSACTION UNDO
+[2018.11.12-17.48.26:199][612]LogEditorTransaction: Undo Edit Refresh Material
+[2018.11.12-17.48.27:284][656]Cmd: TRANSACTION UNDO
+[2018.11.12-17.48.27:284][656]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.12-17.48.28:235][694]Cmd: TRANSACTION UNDO
+[2018.11.12-17.48.28:235][694]LogEditorTransaction: Undo Rotate Actors
+[2018.11.12-17.48.32:196][893]Cmd: TRANSACTION UNDO
+[2018.11.12-17.48.32:196][893]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.12-17.48.35:290][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.49.08:070][751]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.12-17.49.13:612][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.49.14:456][ 81]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.12-17.49.19:689][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.49.19:820][363]MapCheck: New page: Map Check
+[2018.11.12-17.49.19:841][363]Cmd: MAP REBUILD ALLVISIBLE
+[2018.11.12-17.49.19:841][363]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.11.12-17.49.19:982][363]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.11.12-17.49.19:993][363]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-17.49.19:993][363]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.11.12-17.49.20:006][363]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ChainLink, compiling. 
+[2018.11.12-17.49.20:015][363]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_GrapplePoint, compiling. 
+[2018.11.12-17.49.20:023][363]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.11.12-17.49.20:034][363]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.11.12-17.49.21:612][363]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.12-17.49.21:612][363]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.12-17.49.21:612][363]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.12-17.49.21:612][363]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.12-17.49.21:612][363]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-17.49.21:612][363]TextureStreamingBuild: Display: Compiling optional shaders took 1.633 seconds.
+[2018.11.12-17.49.21:625][363]LogLevel: Display: Export Material TexCoord Scales took 0.013 seconds.
+[2018.11.12-17.49.21:652][363]TextureStreamingBuild: Display: Build Texture Streaming took 0.026 seconds.
+[2018.11.12-17.49.21:690][363]LightingResults: New page: Lighting Build - Nov 12, 2018, 7:49:21 AM
+[2018.11.12-17.49.21:705][363]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.12-17.49.21:709][363]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.12-17.49.21:709][363]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.12-17.49.21:710][363]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.12-17.49.21:710][363]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8728
+[2018.11.12-17.49.26:223][363]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.12-17.49.26:223][363]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.12-17.49.26:223][363]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.12-17.49.26:223][363]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.12-17.49.26:223][363]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.12-17.49.26:223][363]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.12-17.49.26:470][363]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.11.12-17.49.26:470][363]MapCheck: New page: Level1 - Nov 12, 2018, 7:49:26 AM
+[2018.11.12-17.49.26:478][363]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.11.12-17.49.26:649][363]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 178.581ms to complete.
+[2018.11.12-17.49.26:673][363]LogEditorBuildUtils: Build time 0:06
+[2018.11.12-17.49.30:837][476]LightingResults: Warning: SecondFloor-Boundary Object has overlapping UVs.
+[2018.11.12-17.49.30:837][476]LightingResults: SecondFloor-Boundary Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.49.31:432][494]LightingResults: Warning: Stairs Object has overlapping UVs.
+[2018.11.12-17.49.31:432][494]LightingResults: Stairs Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.49.32:200][519]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-17.49.32:211][519]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-17.49.34:473][590]LightingResults: Warning: RampWalls Object has overlapping UVs.
+[2018.11.12-17.49.34:473][590]LightingResults: RampWalls Lightmap UV are overlapping by 17.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.49.35:540][625]LightingResults: Warning: Exit Object has overlapping UVs.
+[2018.11.12-17.49.35:540][625]LightingResults: Exit Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.49.36:223][647]LightingResults: Warning: Entry Object has overlapping UVs.
+[2018.11.12-17.49.36:223][647]LightingResults: Entry Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.49.37:346][682]Job is a success!
+[2018.11.12-17.49.37:472][683]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.022s
+[2018.11.12-17.49.37:473][683]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.12-17.49.37:473][683]LogVolumetricLightmapImport:      BrickData 305x5x5 = 0.3Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2018.11.12-17.49.37:473][683]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.12-17.49.37:473][683]LogVolumetricLightmapImport:          0: 1.6% covering 100.0% of volume
+[2018.11.12-17.49.37:473][683]LogVolumetricLightmapImport:          1: 6.6% covering 6.3% of volume
+[2018.11.12-17.49.37:473][683]LogVolumetricLightmapImport:          2: 91.8% covering 1.4% of volume
+[2018.11.12-17.49.38:186][683]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2018.11.12-17.49.38:186][683]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2018.11.12-17.49.38:186][683]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.11.12-17.49.38:186][683]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.11.12-17.49.38:746][683]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X128)
+[2018.11.12-17.49.38:746][683]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2018.11.12-17.49.38:765][683]Lightmass on ANNIE: 10.5 sec total, 428 ms importing, 59 ms setup, 1.87 sec photons, 8.08 sec processing, 0 ms extra exporting [22/22 mappings]. Threads: 32.3 sec total, 14.0 sec processing.
+[2018.11.12-17.49.38:850][683]LogStaticLightingSystem: Illumination: 17.1 sec (669 ms encoding lightmaps, 552 ms encoding shadowmaps)
+[2018.11.12-17.49.38:850][683]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.11.12-17.49.38:850][683]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.11.12-17.49.39:237][683]DumpUnbuiltLightIteractions
+[2018.11.12-17.49.39:237][683]Lights with unbuilt interactions: 0
+[2018.11.12-17.49.39:237][683]
+[2018.11.12-17.49.39:237][683]Primitives with unbuilt interactions: 0
+[2018.11.12-17.49.39:368][684]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.12-17.49.39:369][684]MapCheck: New page: Level1 - Nov 12, 2018, 7:49:39 AM
+[2018.11.12-17.49.39:600][684]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 230.803ms to complete.
+[2018.11.12-17.49.43:709][864]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-17.49.43:717][864]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-17.49.50:664][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.50.00:079][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.50.02:751][867]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.12-17.50.08:500][188]Cmd: TRANSACTION UNDO
+[2018.11.12-17.50.08:500][188]LogEditorTransaction: Undo Edit Refresh Material
+[2018.11.12-17.50.09:469][216]Cmd: TRANSACTION UNDO
+[2018.11.12-17.50.09:469][216]LogEditorTransaction: Undo Edit Overall Color
+[2018.11.12-17.50.35:303][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.50.38:723][833]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1_Auto51A7B87C445D55AACEA0CA581EDE223D8.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Level1_Auto5.umap'
+[2018.11.12-17.50.38:962][833]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1/Level1' took 0.426
+[2018.11.12-17.50.38:962][833]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.426
+[2018.11.12-17.50.38:965][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Level1/Level1_BuiltData] ([1] browsable assets)...
+[2018.11.12-17.50.38:965][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Level1/Level1_BuiltData]
+[2018.11.12-17.50.39:338][833]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1_BuiltData_Auto5504EFA334225CE4FC8D259B88182496C.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Level1_BuiltData_Auto5.uasset'
+[2018.11.12-17.50.39:349][833]LogFileHelpers: Auto-saving content packages took 0.385
+[2018.11.12-17.50.42:605][970]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1CC453BFB4F8A96BDC6E6228F46E6DAD7.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Level1.umap'
+[2018.11.12-17.50.43:018][970]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1_BuiltDataF07720EA4F7F5FF9E4C8C2992E2F7439.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Level1_BuiltData.uasset'
+[2018.11.12-17.51.06:852][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.51.12:744][452]Cmd: TRANSACTION UNDO
+[2018.11.12-17.51.12:744][452]LogEditorTransaction: Undo Move Actors
+[2018.11.12-17.51.22:421][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.51.34:644][609]MapCheck: New page: Map Check
+[2018.11.12-17.51.34:664][609]Cmd: MAP REBUILD ALLVISIBLE
+[2018.11.12-17.51.34:664][609]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.11.12-17.51.34:801][609]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.11.12-17.51.34:812][609]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.11.12-17.51.34:824][609]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-17.51.34:824][609]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ChainLink, compiling. 
+[2018.11.12-17.51.34:833][609]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_GrapplePoint, compiling. 
+[2018.11.12-17.51.34:843][609]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.11.12-17.51.34:857][609]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.12-17.51.34:858][609]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.12-17.51.34:858][609]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.11.12-17.51.36:664][609]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.12-17.51.36:664][609]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.12-17.51.36:664][609]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-17.51.36:665][609]TextureStreamingBuild: Display: Compiling optional shaders took 1.867 seconds.
+[2018.11.12-17.51.36:681][609]LogLevel: Display: Export Material TexCoord Scales took 0.016 seconds.
+[2018.11.12-17.51.36:710][609]TextureStreamingBuild: Display: Build Texture Streaming took 0.028 seconds.
+[2018.11.12-17.51.36:757][609]LightingResults: New page: Lighting Build - Nov 12, 2018, 7:51:36 AM
+[2018.11.12-17.51.36:772][609]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.12-17.51.36:775][609]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.12-17.51.36:776][609]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.12-17.51.36:777][609]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.12-17.51.36:777][609]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8728
+[2018.11.12-17.51.41:289][609]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.12-17.51.41:289][609]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.12-17.51.41:289][609]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.12-17.51.41:289][609]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.12-17.51.41:289][609]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.12-17.51.41:289][609]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.12-17.51.41:532][609]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.11.12-17.51.41:532][609]MapCheck: New page: Level1 - Nov 12, 2018, 7:51:41 AM
+[2018.11.12-17.51.41:540][609]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.11.12-17.51.41:753][609]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 221.087ms to complete.
+[2018.11.12-17.51.41:777][609]LogEditorBuildUtils: Build time 0:07
+[2018.11.12-17.51.45:576][621]LightingResults: Warning: SecondFloor-Boundary Object has overlapping UVs.
+[2018.11.12-17.51.45:576][621]LightingResults: SecondFloor-Boundary Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.51.45:911][622]LightingResults: Warning: Stairs Object has overlapping UVs.
+[2018.11.12-17.51.45:911][622]LightingResults: Stairs Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.51.47:608][627]LightingResults: Warning: RampWalls Object has overlapping UVs.
+[2018.11.12-17.51.47:609][627]LightingResults: RampWalls Lightmap UV are overlapping by 17.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.51.48:283][629]LightingResults: Warning: Entry Object has overlapping UVs.
+[2018.11.12-17.51.48:283][629]LightingResults: Entry Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.51.48:283][629]LightingResults: Warning: Exit Object has overlapping UVs.
+[2018.11.12-17.51.48:283][629]LightingResults: Exit Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-17.51.49:283][632]Job is a success!
+[2018.11.12-17.51.49:683][633]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2018.11.12-17.51.49:683][633]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.12-17.51.49:683][633]LogVolumetricLightmapImport:      BrickData 290x5x5 = 0.3Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2018.11.12-17.51.49:683][633]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.12-17.51.49:683][633]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2018.11.12-17.51.49:683][633]LogVolumetricLightmapImport:          1: 6.9% covering 6.3% of volume
+[2018.11.12-17.51.49:683][633]LogVolumetricLightmapImport:          2: 91.4% covering 1.3% of volume
+[2018.11.12-17.51.50:167][633]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2018.11.12-17.51.50:167][633]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2018.11.12-17.51.50:167][633]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.11.12-17.51.50:167][633]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.11.12-17.51.50:265][633]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X128)
+[2018.11.12-17.51.50:265][633]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2018.11.12-17.51.50:344][633]Lightmass on ANNIE: 6.94 sec total, 342 ms importing, 94 ms setup, 1.46 sec photons, 4.98 sec processing, 0 ms extra exporting [22/22 mappings]. Threads: 19.9 sec total, 8.52 sec processing.
+[2018.11.12-17.51.50:351][633]LogStaticLightingSystem: Illumination: 13.2 sec (448 ms encoding lightmaps, 89 ms encoding shadowmaps)
+[2018.11.12-17.51.50:352][633]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.11.12-17.51.50:352][633]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.11.12-17.51.51:298][633]DumpUnbuiltLightIteractions
+[2018.11.12-17.51.51:298][633]Lights with unbuilt interactions: 0
+[2018.11.12-17.51.51:298][633]
+[2018.11.12-17.51.51:298][633]Primitives with unbuilt interactions: 0
+[2018.11.12-17.51.51:397][634]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.12-17.51.51:397][634]MapCheck: New page: Level1 - Nov 12, 2018, 7:51:51 AM
+[2018.11.12-17.51.51:575][634]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 177.287ms to complete.
+[2018.11.12-17.52.59:562][840]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-17.52.59:575][840]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-17.54.28:540][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.54.31:456][842]Cmd: TRANSACTION UNDO
+[2018.11.12-17.54.31:456][842]LogEditorTransaction: Undo Edit Visible
+[2018.11.12-17.54.33:994][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.55.17:754][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-17.55.17:931][334]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1EA167B3C4B3A79F3491DB689EC925FEF.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Level1.umap'
+[2018.11.12-17.55.18:228][334]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1_BuiltData85B66D01462B45825505F0BB561BB6E7.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Level1_BuiltData.uasset'
+[2018.11.12-17.55.42:022][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.55.57:650][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.56.12:889][ 70]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.12-17.56.14:715][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.56.33:850][227]EditorErrors: New page: Actor attachment
+[2018.11.12-17.56.58:764][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.57.24:726][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.57.50:599][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-17.58.19:117][876]Cmd: TRANSACTION UNDO
+[2018.11.12-17.58.19:117][876]LogEditorTransaction: Undo Edit Temperature
+[2018.11.12-17.58.19:782][894]Cmd: TRANSACTION UNDO
+[2018.11.12-17.58.19:782][894]LogEditorTransaction: Undo Edit Use Temperature
+[2018.11.12-17.58.59:352][ 46]Cmd: TRANSACTION UNDO
+[2018.11.12-17.58.59:352][ 46]LogEditorTransaction: Undo Edit Affects World
+[2018.11.12-18.00.26:296][661]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.26:296][661]LogEditorTransaction: Undo Set Rotation
+[2018.11.12-18.00.26:500][661]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.26:500][661]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.12-18.00.26:687][661]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.26:687][661]LogEditorTransaction: Undo Edit Refresh Material
+[2018.11.12-18.00.26:846][661]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.26:846][661]LogEditorTransaction: Undo Edit Refresh Material
+[2018.11.12-18.00.27:006][661]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.27:006][661]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.12-18.00.27:202][661]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.27:202][661]LogEditorTransaction: Undo Set Rotation
+[2018.11.12-18.00.27:400][661]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.27:400][661]LogEditorTransaction: Undo Set Rotation
+[2018.11.12-18.00.27:596][661]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.27:596][661]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.12-18.00.27:795][661]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.27:795][661]LogEditorTransaction: Undo Edit Refresh Material
+[2018.11.12-18.00.27:977][661]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.27:977][661]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.12-18.00.28:185][661]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.28:185][661]LogEditorTransaction: Undo Set Rotation
+[2018.11.12-18.00.28:378][661]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.28:378][661]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.12-18.00.28:575][661]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.28:575][661]LogEditorTransaction: Undo Edit Refresh Material
+[2018.11.12-18.00.28:764][661]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.28:764][661]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.12-18.00.30:822][716]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.30:822][716]LogEditorTransaction: Undo Set Rotation
+[2018.11.12-18.00.31:160][719]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.31:160][719]LogEditorTransaction: Undo Set Rotation
+[2018.11.12-18.00.31:458][721]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.31:458][721]LogEditorTransaction: Undo Set Rotation
+[2018.11.12-18.00.32:246][750]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.32:246][750]LogEditorTransaction: Undo Set Rotation
+[2018.11.12-18.00.32:548][751]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.32:548][751]LogEditorTransaction: Undo Edit Affects World
+[2018.11.12-18.00.32:725][751]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.32:725][751]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.12-18.00.32:920][751]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.32:920][751]LogEditorTransaction: Undo Reset to Default
+[2018.11.12-18.00.33:102][751]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.33:102][751]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.12-18.00.33:315][751]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.33:315][751]LogEditorTransaction: Undo Reset to Default
+[2018.11.12-18.00.33:848][752]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.33:848][752]LogEditorTransaction: Undo Reset to Default
+[2018.11.12-18.00.34:015][752]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.34:015][752]LogEditorTransaction: Undo Edit Affects World
+[2018.11.12-18.00.34:190][752]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.34:190][752]LogEditorTransaction: Undo Edit Affects World
+[2018.11.12-18.00.34:400][752]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.34:400][752]LogEditorTransaction: Undo Edit Affects World
+[2018.11.12-18.00.34:597][752]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.34:597][752]LogEditorTransaction: Undo Edit Affects World
+[2018.11.12-18.00.35:045][753]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.35:046][753]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.12-18.00.37:960][878]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.37:960][878]LogEditorTransaction: Undo Edit Refresh Material
+[2018.11.12-18.00.39:091][920]Cmd: TRANSACTION UNDO
+[2018.11.12-18.00.39:091][920]LogEditorTransaction: Undo Edit Cloud Opacity
+[2018.11.12-18.00.41:428][  5]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.41:429][  5]LogEditorTransaction: Redo Edit Cloud Opacity
+[2018.11.12-18.00.43:123][ 64]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.43:124][ 64]LogEditorTransaction: Redo Edit Refresh Material
+[2018.11.12-18.00.43:406][ 65]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.43:406][ 65]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.12-18.00.43:602][ 65]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.43:602][ 65]LogEditorTransaction: Redo Edit Affects World
+[2018.11.12-18.00.43:775][ 65]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.43:775][ 65]LogEditorTransaction: Redo Edit Affects World
+[2018.11.12-18.00.43:946][ 65]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.43:947][ 65]LogEditorTransaction: Redo Edit Affects World
+[2018.11.12-18.00.44:113][ 65]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.44:113][ 65]LogEditorTransaction: Redo Edit Affects World
+[2018.11.12-18.00.44:692][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.44:692][ 66]LogEditorTransaction: Redo Reset to Default
+[2018.11.12-18.00.44:858][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.44:858][ 66]LogEditorTransaction: Redo Reset to Default
+[2018.11.12-18.00.45:031][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.45:031][ 66]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.12-18.00.45:220][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.45:220][ 66]LogEditorTransaction: Redo Reset to Default
+[2018.11.12-18.00.45:399][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.45:399][ 66]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.12-18.00.45:601][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.45:601][ 66]LogEditorTransaction: Redo Edit Affects World
+[2018.11.12-18.00.45:794][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.45:794][ 66]LogEditorTransaction: Redo Set Rotation
+[2018.11.12-18.00.45:964][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.45:964][ 66]LogEditorTransaction: Redo Set Rotation
+[2018.11.12-18.00.46:136][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.46:136][ 66]LogEditorTransaction: Redo Set Rotation
+[2018.11.12-18.00.46:317][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.46:317][ 66]LogEditorTransaction: Redo Set Rotation
+[2018.11.12-18.00.46:501][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.46:501][ 66]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.12-18.00.46:682][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.46:682][ 66]LogEditorTransaction: Redo Edit Refresh Material
+[2018.11.12-18.00.46:857][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.46:857][ 66]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.12-18.00.47:052][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.47:052][ 66]LogEditorTransaction: Redo Set Rotation
+[2018.11.12-18.00.47:222][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.47:223][ 66]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.12-18.00.47:405][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.47:405][ 66]LogEditorTransaction: Redo Edit Refresh Material
+[2018.11.12-18.00.47:596][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.47:596][ 66]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.12-18.00.47:792][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.47:792][ 66]LogEditorTransaction: Redo Set Rotation
+[2018.11.12-18.00.47:963][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.47:963][ 66]LogEditorTransaction: Redo Set Rotation
+[2018.11.12-18.00.48:137][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.48:137][ 66]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.12-18.00.48:321][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.48:322][ 66]LogEditorTransaction: Redo Edit Refresh Material
+[2018.11.12-18.00.48:490][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.48:490][ 66]LogEditorTransaction: Redo Edit Refresh Material
+[2018.11.12-18.00.48:687][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.48:687][ 66]LogEditorTransaction: Redo Clicking on Actors
+[2018.11.12-18.00.48:884][ 66]Cmd: TRANSACTION REDO
+[2018.11.12-18.00.48:884][ 66]LogEditorTransaction: Redo Set Rotation
+[2018.11.12-18.00.53:355][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-18.00.59:314][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.01.04:403][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.02.02:900][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.05.20:005][199]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1_Auto600E7412D4ABD67E2D43A9A971ADAFA6A.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Level1_Auto6.umap'
+[2018.11.12-18.05.20:037][199]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1/Level1' took 2.131
+[2018.11.12-18.05.20:038][199]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.131
+[2018.11.12-18.06.03:291][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.09.19:006][235]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-18.09.25:163][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.09.26:466][509]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Levels/Level1/Platform_1.Platform
+[2018.11.12-18.09.58:716][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.10.04:512][ 34]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-18.10.11:428][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.10.45:845][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.11.41:338][271]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-18.11.47:734][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.12.39:893][316]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-18.13.32:081][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.13.39:163][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.14.00:263][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.14.09:963][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.14.14:560][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1/Platform_1" FILE="../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Platform_1.uasset" SILENT=true
+[2018.11.12-18.14.14:669][319]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Platform_1E7C7C3294694E11DCBC09A8497C9310B.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Platform_1.uasset'
+[2018.11.12-18.14.21:921][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.14.24:427][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1/Platform_1" FILE="../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Platform_1.uasset" SILENT=true
+[2018.11.12-18.14.24:512][707]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Platform_170CDE5A14DF8461D931098987D4B6752.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Platform_1.uasset'
+[2018.11.12-18.14.26:066][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.15.34:184][168]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1_Auto7FB7E4063409B650373B7868787F2060C.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Level1_Auto7.umap'
+[2018.11.12-18.15.34:241][168]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1/Level1' took 0.665
+[2018.11.12-18.15.34:242][168]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.665
+[2018.11.12-18.15.34:246][168]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/Level1/Platform_1] ([1] browsable assets)...
+[2018.11.12-18.15.34:318][168]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/Level1/Platform_1.Platform]
+[2018.11.12-18.15.34:318][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Level1/Platform_1]
+[2018.11.12-18.15.34:810][168]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Platform_1_Auto7A5F04EBB4F20AC1A5219D8906ED4879D.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Platform_1_Auto7.uasset'
+[2018.11.12-18.15.34:844][168]LogFileHelpers: Auto-saving content packages took 0.599
+[2018.11.12-18.15.55:346][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.15.59:279][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1/Platform_1" FILE="../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Platform_1.uasset" SILENT=true
+[2018.11.12-18.15.59:364][446]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Platform_1409656104CFEE7640259EFBE88414504.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Platform_1.uasset'
+[2018.11.12-18.17.22:500][434]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-18.17.23:190][467]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-18.17.24:387][525]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-18.17.24:463][527]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform_3)
+[2018.11.12-18.17.49:388][717]Cmd: TRANSACTION UNDO
+[2018.11.12-18.17.49:388][717]LogEditorTransaction: Undo Move Components
+[2018.11.12-18.17.50:126][718]Cmd: TRANSACTION UNDO
+[2018.11.12-18.17.50:126][718]LogEditorTransaction: Undo Move Components
+[2018.11.12-18.17.51:918][778]Cmd: TRANSACTION REDO
+[2018.11.12-18.17.51:918][778]LogEditorTransaction: Redo Move Components
+[2018.11.12-18.17.52:719][786]Cmd: TRANSACTION REDO
+[2018.11.12-18.17.52:719][786]LogEditorTransaction: Redo Move Components
+[2018.11.12-18.17.55:930][904]Cmd: TRANSACTION UNDO
+[2018.11.12-18.17.55:931][904]LogEditorTransaction: Undo Move Components
+[2018.11.12-18.17.59:058][ 29]Cmd: TRANSACTION UNDO
+[2018.11.12-18.17.59:058][ 29]LogEditorTransaction: Undo Move Components
+[2018.11.12-18.18.00:714][ 77]Cmd: TRANSACTION UNDO
+[2018.11.12-18.18.00:714][ 77]LogEditorTransaction: Undo Move Components
+[2018.11.12-18.18.01:933][102]Cmd: TRANSACTION UNDO
+[2018.11.12-18.18.01:934][102]LogEditorTransaction: Undo Clicking on Components
+[2018.11.12-18.18.07:940][354]Cmd: TRANSACTION UNDO
+[2018.11.12-18.18.07:940][354]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.12-18.18.47:991][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.18.51:532][ 19]LogAssetEditorManager: Opening Asset editor for FbxSceneImportData /Game/Levels/Level1/Level.Level
+[2018.11.12-18.19.29:422][415]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-18.25.37:684][172]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1_Auto884940F7847A7DC209ED025A312C59247.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Level1_Auto8.umap'
+[2018.11.12-18.25.37:728][172]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1/Level1' took 0.405
+[2018.11.12-18.25.37:728][172]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.405
+[2018.11.12-18.25.37:734][172]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Level1/Level] ([1] browsable assets)...
+[2018.11.12-18.25.37:734][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Level1/Level]
+[2018.11.12-18.25.38:212][172]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level_Auto8CEC39DB44B02F6DE1C593EB8B1439CC8.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Level_Auto8.uasset'
+[2018.11.12-18.25.38:214][172]LogFileHelpers: Auto-saving content packages took 0.481
+[2018.11.12-18.33.47:195][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1/Level" FILE="../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Level.uasset" SILENT=true
+[2018.11.12-18.33.47:278][290]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level00D54CF6486AADFD95D792B382686A0D.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Level.uasset'
+[2018.11.12-18.40.34:404][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.40.47:222][131]LogEditorFactories: Performing atomic reimport of [C:/Users/Asher/Google Drive/Level.FBX]
+[2018.11.12-18.40.48:060][131]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-18.40.50:300][131]LogFbx: Loading FBX Scene from C:/Users/Asher/Google Drive/Level.FBX
+[2018.11.12-18.40.50:892][131]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.12-18.40.51:480][131]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-18.40.51:683][131]LogStaticMesh: Building static mesh Ceiling...
+[2018.11.12-18.40.51:997][131]LogStaticMesh: Built static mesh [0.39s] /Game/Levels/Level1/Ceiling.Ceiling
+[2018.11.12-18.40.53:621][131]LogEditorFactories: -- imported successfully
+[2018.11.12-18.41.04:853][563]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-18.41.06:416][632]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-18.41.06:864][632]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1_Auto93F81B3D642670930F5B459967484FD08.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Level1_Auto9.umap'
+[2018.11.12-18.41.06:874][632]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1/Level1' took 0.356
+[2018.11.12-18.41.06:874][632]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.356
+[2018.11.12-18.41.06:880][632]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/Level1/FbxScene_Level] ([1] browsable assets)...
+[2018.11.12-18.41.06:898][632]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Levels/Level1/FbxScene_Level.FbxScene_Level]
+[2018.11.12-18.41.06:898][632]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Level1/FbxScene_Level]
+[2018.11.12-18.41.07:585][632]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/FbxScene_Level_Auto9C5F97AEC4BC2E7D61BB53AB11C48F7D0.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/FbxScene_Level_Auto9.uasset'
+[2018.11.12-18.41.07:603][632]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/Level1/Ceiling] ([1] browsable assets)...
+[2018.11.12-18.41.07:622][632]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/Level1/Ceiling.Ceiling]
+[2018.11.12-18.41.07:622][632]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Level1/Ceiling]
+[2018.11.12-18.41.07:779][632]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Ceiling_Auto92D02F0D443517BADC8315E835F336216.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Ceiling_Auto9.uasset'
+[2018.11.12-18.41.07:782][632]LogFileHelpers: Auto-saving content packages took 0.903
+[2018.11.12-18.41.09:115][671]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Level_C (FbxScene_Level)
+[2018.11.12-18.41.09:243][673]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.11.12-18.41.11:360][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.41.16:169][895]Cmd: TRANSACTION UNDO
+[2018.11.12-18.41.16:169][895]LogEditorTransaction: Undo Set Location
+[2018.11.12-18.41.19:281][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.41.29:301][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.41.51:248][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.41.54:403][406]Cmd: TRANSACTION UNDO
+[2018.11.12-18.41.54:403][406]LogEditorTransaction: Undo Set Location
+[2018.11.12-18.41.54:957][406]Cmd: TRANSACTION UNDO
+[2018.11.12-18.41.54:957][406]LogEditorTransaction: Undo Move Components
+[2018.11.12-18.41.57:280][477]Cmd: TRANSACTION UNDO
+[2018.11.12-18.41.57:280][477]LogEditorTransaction: Undo Set Location
+[2018.11.12-18.41.59:400][536]Cmd: TRANSACTION UNDO
+[2018.11.12-18.41.59:400][536]LogEditorTransaction: Undo Set Location
+[2018.11.12-18.42.00:565][557]Cmd: TRANSACTION UNDO
+[2018.11.12-18.42.00:565][557]LogEditorTransaction: Undo Clicking on Components
+[2018.11.12-18.42.06:150][771]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-18.42.15:120][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.42.21:879][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1/Ceiling" FILE="../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Ceiling.uasset" SILENT=true
+[2018.11.12-18.42.21:987][503]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/CeilingECEAE8C74480056F326BAEBFE996C6C1.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Ceiling.uasset'
+[2018.11.12-18.42.23:233][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-18.51.09:955][184]LogGarbage: Warning: 6.104661 ms for acquiring GC lock
+[2018.11.12-18.51.25:846][184]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1_Auto0DFBBA5CF4B96A6F9395B8C9E560C4D47.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Autosaves/Game/Levels/Level1/Level1_Auto0.umap'
+[2018.11.12-18.51.26:051][184]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1/Level1' took 16.136
+[2018.11.12-18.51.26:051][184]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 16.136
+[2018.11.12-19.32.42:030][812]LogSlate: Window 'Save Content' being destroyed
+[2018.11.12-19.32.42:055][812]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-19.32.47:384][812]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1DD96C05E4C656D5B1AC140BD9F60A476.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Level1.umap'
+[2018.11.12-19.32.47:602][812]LogFileHelpers: Saving map 'Level1' took 5.534
+[2018.11.12-19.32.47:913][812]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Mat_PolygonCity_FX_Rain4B56C0E942002F2972682EB3234126BD.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/PolygonCity/Materials/Mat_PolygonCity_FX_Rain.uasset'
+[2018.11.12-19.32.48:049][812]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Mat_PolygonCity_FX_Steam6A67E2AD48E74A7EC3E0FEAC360E37EB.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/PolygonCity/Materials/Mat_PolygonCity_FX_Steam.uasset'
+[2018.11.12-19.32.51:166][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-19.32.51:571][940]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Levels/Level1/FbxScene_Level.FbxScene_Level
+[2018.11.12-19.33.45:432][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-19.33.49:818][778]LogEditorTransaction: Undo Reset Location
+[2018.11.12-19.33.51:910][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-19.33.52:068][892]BlueprintLog: New page: Compile FbxScene_Level
+[2018.11.12-19.33.57:142][892]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/FbxScene_LevelBED9456C461ED0F2FF0417A887847665.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/FbxScene_Level.uasset'
+[2018.11.12-19.34.01:086][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-19.34.01:235][ 58]MapCheck: New page: Map Check
+[2018.11.12-19.34.01:353][ 58]Cmd: MAP REBUILD ALLVISIBLE
+[2018.11.12-19.34.01:458][ 58]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.11.12-19.34.04:706][ 58]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.11.12-19.34.05:093][ 58]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-19.34.05:093][ 58]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_GrapplePoint, compiling. 
+[2018.11.12-19.34.05:189][ 58]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.11.12-19.34.05:366][ 58]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.12-19.34.05:366][ 58]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-19.34.05:366][ 58]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.11.12-19.34.05:593][ 58]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.11.12-19.34.05:625][ 58]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ChainLink, compiling. 
+[2018.11.12-19.34.11:154][ 58]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.12-19.34.11:154][ 58]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.12-19.34.11:154][ 58]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-19.34.11:154][ 58]TextureStreamingBuild: Display: Compiling optional shaders took 6.543 seconds.
+[2018.11.12-19.34.11:264][ 58]LogLevel: Display: Export Material TexCoord Scales took 0.109 seconds.
+[2018.11.12-19.34.11:463][ 58]TextureStreamingBuild: Display: Build Texture Streaming took 0.198 seconds.
+[2018.11.12-19.34.11:529][ 58]LightingResults: New page: Lighting Build - Nov 12, 2018, 9:34:11 AM
+[2018.11.12-19.34.11:689][ 58]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.12-19.34.11:726][ 58]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.12-19.34.11:775][ 58]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.12-19.34.12:110][ 58]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.12-19.34.12:110][ 58]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8728
+[2018.11.12-19.34.16:857][ 58]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.12-19.34.16:867][ 58]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.12-19.34.16:867][ 58]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.12-19.34.16:867][ 58]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.12-19.34.16:867][ 58]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.12-19.34.16:867][ 58]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.12-19.34.17:502][ 58]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.11.12-19.34.17:557][ 58]MapCheck: New page: Level1 - Nov 12, 2018, 9:34:17 AM
+[2018.11.12-19.34.17:610][ 58]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.11.12-19.34.17:890][ 58]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 316.299ms to complete.
+[2018.11.12-19.34.17:932][ 58]LogEditorBuildUtils: Build time 0:16
+[2018.11.12-19.34.17:947][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-19.34.27:415][327]LightingResults: Warning: Stairs Object has overlapping UVs.
+[2018.11.12-19.34.27:415][327]LightingResults: Stairs Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-19.34.29:779][408]LightingResults: Warning: RampWalls Object has overlapping UVs.
+[2018.11.12-19.34.29:779][408]LightingResults: RampWalls Lightmap UV are overlapping by 17.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-19.34.30:065][417]LightingResults: Warning: Entry Object has overlapping UVs.
+[2018.11.12-19.34.30:065][417]LightingResults: Entry Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-19.34.30:460][430]LightingResults: Warning: Exit Object has overlapping UVs.
+[2018.11.12-19.34.30:461][430]LightingResults: Exit Lightmap UV are overlapping by 4.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-19.34.31:933][478]LightingResults: Warning: SecondFloor-Boundary Object has overlapping UVs.
+[2018.11.12-19.34.31:933][478]LightingResults: SecondFloor-Boundary Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.12-19.34.32:332][493]Job is a success!
+[2018.11.12-19.34.33:596][494]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.140s
+[2018.11.12-19.34.33:596][494]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.12-19.34.33:596][494]LogVolumetricLightmapImport:      BrickData 425x5x5 = 0.4Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2018.11.12-19.34.33:596][494]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.12-19.34.33:596][494]LogVolumetricLightmapImport:          0: 1.2% covering 100.0% of volume
+[2018.11.12-19.34.33:596][494]LogVolumetricLightmapImport:          1: 4.7% covering 6.3% of volume
+[2018.11.12-19.34.33:596][494]LogVolumetricLightmapImport:          2: 94.1% covering 2.0% of volume
+[2018.11.12-19.34.34:773][494]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2018.11.12-19.34.34:774][494]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2018.11.12-19.34.34:774][494]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.11.12-19.34.34:774][494]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.11.12-19.34.35:327][494]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X128)
+[2018.11.12-19.34.35:444][494]Lightmass on ANNIE: 12.2 sec total, 1.78 sec importing, 58 ms setup, 1.69 sec photons, 8.42 sec processing, 0 ms extra exporting [22/22 mappings]. Threads: 33.6 sec total, 10.6 sec processing.
+[2018.11.12-19.34.35:905][494]LogStaticLightingSystem: Illumination: 24.2 sec (868 ms encoding lightmaps, 555 ms encoding shadowmaps)
+[2018.11.12-19.34.35:905][494]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.11.12-19.34.35:905][494]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2018.11.12-19.34.36:857][494]DumpUnbuiltLightIteractions
+[2018.11.12-19.34.36:857][494]Lights with unbuilt interactions: 0
+[2018.11.12-19.34.36:857][494]
+[2018.11.12-19.34.36:857][494]Primitives with unbuilt interactions: 0
+[2018.11.12-19.34.36:929][494]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-19.34.37:557][495]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.12-19.34.37:558][495]MapCheck: New page: Level1 - Nov 12, 2018, 9:34:37 AM
+[2018.11.12-19.34.37:731][495]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 173.901ms to complete.
+[2018.11.12-19.34.38:739][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-19.34.38:866][543]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-19.34.38:874][543]LogSlate: Window 'Message Log' being destroyed
+[2018.11.12-19.34.40:406][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-19.34.43:842][618]LogSlate: Window 'Save Content' being destroyed
+[2018.11.12-19.34.43:864][618]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-19.34.44:218][618]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1A996DFD44415B3BA6D44018A9302D60E.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Level1.umap'
+[2018.11.12-19.34.44:296][618]LogFileHelpers: Saving map 'Level1' took 0.421
+[2018.11.12-19.34.44:566][618]LogSavePackage: Moving '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Saved/Level1_BuiltDataBDB83EE84CE65FE08B6E6ABA86E85554.tmp' to '../../../../../../Users/Asher/OneDrive - George Mason University/GAME310_RamboBambi/Content/Levels/Level1/Level1_BuiltData.uasset'
+[2018.11.12-19.34.50:600][618]LogSlate: Window 'Level - Generic Asset Editor' being destroyed
+[2018.11.12-19.34.50:707][618]LogSlate: Window 'GAME310_RamboBambi - Unreal Editor' being destroyed
+[2018.11.12-19.34.50:742][618]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.12-19.34.52:546][619]Cmd: QUIT_EDITOR
+[2018.11.12-19.34.59:762][619]LogExit: Preparing to exit.
